@@ -92,7 +92,14 @@ def parse_file(filename, kind):
     if not isinstance(data, dict) or "payload" not in data:
         raise ValueError(f"Expected a YAML payload mapping in {filename}")
     payload = data["payload"]
-    return convert_ip_payload(payload) if kind == "geoip" else convert_payload(payload)
+    # Some upstream categories intentionally contain no rules. Preserve
+    # their category path with a no-op, syntactically valid Egern rule set.
+    if payload is None or payload == []:
+        return {"ip_cidr_set": []} if kind == "geoip" else {"domain_set": []}
+    try:
+        return convert_ip_payload(payload) if kind == "geoip" else convert_payload(payload)
+    except Exception as exc:
+        raise ValueError(f"Invalid upstream data in {filename}: {exc}") from exc
 
 
 def render_rule(upstream_path, groups):
