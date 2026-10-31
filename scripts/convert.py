@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Mirror all MetaCubeX YAML geosite/geoip categories into Egern rule sets.
 
-The MetaCubeX 'meta' branch includes ASN .list/.mrs collections too.  Those
-are cataloged but intentionally converted *on demand* because there are tens
-of thousands of them.  See scripts/convert_asn.py.
+The MetaCubeX meta branch includes tens of thousands of ASN collections.
+All ASNs can be matched with Egern native asn rules; matching individual
+upstream CIDR snapshots is supported by scripts/convert_asn.py on demand.
 
 Offline operation: upstream is a locally checked-out sparse Git repository.
 All input files are parsed and validated before any generated rule is written.
@@ -175,7 +175,7 @@ def build(upstream, aliases):
         "upstream_sha": upstream_sha,
         "categories": {k: len(v) for k, v in catalog.items()},
         "asn_count": len(asn_names),
-        "asn_mode": "on-demand; see scripts/convert_asn.py",
+        "asn_mode": "native-asn-all; published-cidr-snapshots-daily-refresh",
         "rules": catalog,
         "aliases": aliases,
     }
