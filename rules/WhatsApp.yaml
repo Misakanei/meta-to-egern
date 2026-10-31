@@ -1,0 +1,15 @@
+# Auto-generated from MetaCubeX/meta-rules-dat; DO NOT EDIT.
+# Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/whatsapp.yaml
+# Rule counts: domain_suffix_set=11
+domain_suffix_set:
+- wa.me
+- whatsapp-plus.info
+- whatsapp-plus.me
+- whatsapp-plus.net
+- whatsapp.cc
+- whatsapp.com
+- whatsapp.info
+- whatsapp.net
+- whatsapp.org
+- whatsapp.tv
+- whatsappbrand.com
