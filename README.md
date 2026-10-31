@@ -12,9 +12,9 @@
 | `geo/geoip/*.yaml` | `rules/geoip/*.yaml` | ✅ 全量 |
 | `geo-lite/geosite/*.yaml` | `rules/lite/geosite/*.yaml` | ✅ 全量 |
 | `geo-lite/geoip/*.yaml` | `rules/lite/geoip/*.yaml` | ✅ 全量 |
-| `asn/AS*.list` | `rules/asn/AS*.yaml` | ⚠️ 按需发布，不默认全量生成 |
+| `asn/AS*.list` | `rules/asn/AS*.yaml` | ✅ 按需发布，已发布文件每天自动更新 |
 
-**ASN 说明：** MetaCubeX 的 ASN 规则是数万组单独的 IP 网段文件，GitHub 一次性提交数万个小文件会给仓库和日常自动构建造成不必要的负担。我们将全部 ASN 类别索引到 `catalog/asn.json`，如需具体 ASN 的网段原样转换，可通过 Actions 的 `asn` 输入手动生成，不限制于预设分组。其转换结果基于原始 IP 列表而不是用 Egern 的 `asn_set` 猜测对应关系。
+**ASN 完整覆盖方案：** Egern 自带 `asn` / `asn_set`，可以直接按 AS 编号匹配，因此不需要在 GitHub 仓库创建 82,439 个 ASN YAML 文件。仓库仍将上游全部 ASN 类别收录在 `catalog/asn.json`。若需要与 MetaCubeX **同一份 IP 网段快照**，可在 Actions 中按需生成对应的 `rules/asn/AS*.yaml`。**所有已发布的 ASN 网段规则将随每天的全量任务自动刷新**，新 ASN 不会被无差别地全部生成。
 
 忽略 `.mrs`、`.list`、`classical/` 的重复格式文件，仅将它们对应的 YAML 数据转为 Egern 原生格式。ASN 按需处理 `.list`。
 
@@ -63,8 +63,31 @@ https://raw.githubusercontent.com/Misakanei/meta-to-egern/main/rules/Twitter.yam
 1. 北京时间约 **每天 10:17** 定时更新，也支持 GitHub Actions 的 `workflow_dispatch`。
 2. 通过 sparse checkout 只拉取 MetaCubeX 的四个 YAML 规则目录，避免下载海量 ASN 文件。
 3. 离线扫描每个 `*.yaml`，转换并严格验证数据；**全部校验通过后才发布**，防止上游异常覆盖好规则。
-4. 自动生成 YAML、索引和兼容别名，GitHub Actions 自动提交改变的文件。
+4. 自动生成 YAML、索引和兼容别名，并刷新已发布的 ASN 网段规则；GitHub Actions 自动提交改变的文件。
 5. 改动 `scripts/`、`tests/`、`groups.json` 时也立即触发全量更新。
+
+### ASN 原生匹配（推荐）
+
+Egern 官方直接支持 ASN 匹配，**任意合法 ASN 都能用**，不需要提前生成一个文件：
+
+```yaml
+rules:
+  - asn:
+      match: AS13335
+      policy: 节点选择
+      no_resolve: true
+```
+
+也可以使用一个本地或远程的原生 `asn_set`，同时匹配多个 ASN：
+
+```yaml
+# 任意 Egern rule_set 文件内容
+asn_set:
+  - AS13335
+  - AS15169
+```
+
+注意：**Egern 自身的 ASN 识别数据与 MetaCubeX 上游的 CIDR 清单可能不完全相同**；如果要求逐个网段保持一致，使用下面的按需转换方式。
 
 ### ASN 按需发布
 
@@ -80,7 +103,7 @@ AS13335,AS15169
 https://raw.githubusercontent.com/Misakanei/meta-to-egern/main/rules/asn/AS13335.yaml
 ```
 
-每次最多输入 20 个 ASN。未来每次重新运行可补充其他 ASN；不会删除已经发布的 ASN 规则。自动更新当前只针对全量四个 YAML 类别；已发布的 ASN 规则需要手动重新运行以获取最新 IP 网段。
+每次最多输入 20 个 ASN，未来可重复手动运行补充其他 ASN，不会删除已发布规则。**已发布的 ASN 文件会在每日 10:17（北京时间）全量构建时自动复查并更新 IP 网段**；无需再逐一输入已生成的 ASN。未发布的 ASN 不会自动生成，避免数万个文件导致仓库膨胀。
 
 ## 开发
 
@@ -96,6 +119,7 @@ python scripts/convert.py --upstream upstream
 
 ```bash
 python scripts/convert_asn.py --asn AS13335,AS15169
+python scripts/convert_asn.py --refresh  # 更新 rules/asn/ 已发布文件
 ```
 
 依据 [Egern 官方规则集格式说明](https://egernapp.com/zh-CN/docs/configuration/rules/) 转换为 `domain_set` / `domain_suffix_set` / `domain_keyword_set` / `domain_regex_set` / `ip_cidr_set` / `ip_cidr6_set` 等字段。
