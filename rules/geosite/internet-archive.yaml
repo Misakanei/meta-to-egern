@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/internet-archive.yaml
+domain_suffix_set:
+- archive-it.org
+- archive.org
+- openlibrary.org

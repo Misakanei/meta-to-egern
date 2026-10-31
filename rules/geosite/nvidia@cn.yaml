@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/nvidia@cn.yaml
+domain_set:
+- cn.download.nvidia.com
+domain_suffix_set:
+- geforce.cn
+- gputechconf.cn
+- nvidia.cn

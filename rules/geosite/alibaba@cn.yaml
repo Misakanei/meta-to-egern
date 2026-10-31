@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/alibaba@cn.yaml
+domain_set:
+- account-cn.alibabacloud.com
+- api.alibabacloud.com
+- cn.alibabacloud.com
+- status.alibabacloud.com

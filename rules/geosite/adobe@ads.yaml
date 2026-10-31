@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/adobe@ads.yaml
+domain_suffix_set:
+- advertising.adobe.com
+- demdex.net
+- tubemogul.com

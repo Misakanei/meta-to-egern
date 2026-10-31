@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/github@telemetry.yaml
+domain_set:
+- copilot-telemetry-service.githubusercontent.com
+- copilot-telemetry.githubusercontent.com
+domain_suffix_set:
+- cafe.github.com
+- collector.github.com

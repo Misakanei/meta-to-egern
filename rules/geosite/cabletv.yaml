@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/cabletv.yaml
+domain_suffix_set:
+- cabletv.com.hk
+- fantv.hk
+- hkopentv.com
+- hoy.tv
+- i-cable.com

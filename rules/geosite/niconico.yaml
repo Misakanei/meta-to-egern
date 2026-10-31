@@ -1,0 +1,13 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/niconico.yaml
+domain_suffix_set:
+- nico
+- nico.ms
+- nicochannel.jp
+- nicodic.jp
+- nicomanga.jp
+- niconico.com
+- nicoseiga.jp
+- nicovideo.jp
+- nimg.jp
+- simg.jp

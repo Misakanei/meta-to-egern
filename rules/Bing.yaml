@@ -1,6 +1,5 @@
-# Auto-generated from MetaCubeX/meta-rules-dat; DO NOT EDIT.
-# Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.yaml
-# Rule counts: domain_set=2, domain_suffix_set=39
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/bing.yaml
 domain_set:
 - bj1.api.bing.com
 - location.microsoft.com

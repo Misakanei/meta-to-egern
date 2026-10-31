@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/fedora.yaml
+domain_suffix_set:
+- fedoraforum.org
+- fedorainfracloud.org
+- fedoramagazine.org
+- fedorapeople.org
+- fedoraproject.org
+- getfedora.org

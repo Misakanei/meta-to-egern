@@ -1,0 +1,15 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-mooc-cn.yaml
+domain_set:
+- moocs.unipus.cn
+- opencourse.pku.edu.cn
+- study.163.com
+domain_suffix_set:
+- chinesemooc.org
+- cnmooc.org
+- icourse163.org
+- icourses.cn
+- icve.com.cn
+- mooc.cn
+- openlearning.com
+- pmphmooc.com

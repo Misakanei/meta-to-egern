@@ -1,6 +1,5 @@
-# Auto-generated from MetaCubeX/meta-rules-dat; DO NOT EDIT.
-# Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/instagram.yaml
-# Rule counts: domain_suffix_set=74
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/instagram.yaml
 domain_suffix_set:
 - achat-followers-instagram.com
 - acheter-followers-instagram.com

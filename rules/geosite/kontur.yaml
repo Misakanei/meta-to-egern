@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/kontur.yaml
+domain_set:
+- metrika.kontur.ru
+- sentry.kontur.host
+domain_suffix_set:
+- kontur-inc.com
+- kontur.host
+- kontur.ru
+- ktalk.host
+- ktalk.ru

@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/ximalaya.yaml
+domain_suffix_set:
+- adbehavior.ximalaya.com
+- adse.wsa.ximalaya.com
+- adse.ximalaya.com
+- ximalaya.com
+- xmcdn.com

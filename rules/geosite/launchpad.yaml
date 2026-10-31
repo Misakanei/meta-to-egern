@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/launchpad.yaml
+domain_suffix_set:
+- launchpad.net
+- launchpadcontent.net
+- launchpadlibrarian.com
+- launchpadlibrarian.net
+- launchpadlibrarian.org

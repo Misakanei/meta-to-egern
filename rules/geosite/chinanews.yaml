@@ -1,0 +1,12 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/chinanews.yaml
+domain_suffix_set:
+- chinanews.com
+- chinanews.com.cn
+- chinaqw.com
+- cns.com.cn
+- cnsimg.net
+- ecns.cn
+- inewsweek.cn
+- jwview.com
+- xinmeng.info

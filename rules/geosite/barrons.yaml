@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/barrons.yaml
+domain_suffix_set:
+- barrons-advisor.com
+- barrons-conferences.com
+- barrons.com
+- wsjbarrons.com

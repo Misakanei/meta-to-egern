@@ -1,0 +1,18 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/bilibili-cdn.yaml
+domain_set:
+- upos-hz-mirrorakam.akamaized.net
+domain_suffix_set:
+- bilicdn1.com
+- bilicdn2.com
+- bilicdn3.com
+- bilicdn4.com
+- bilicdn5.com
+- biliimg.com
+- bilivideo.cn
+- bilivideo.com
+- bilivideo.net
+- hdslb.com
+- hdslb.org
+- maoercdn.com
+- mincdn.com

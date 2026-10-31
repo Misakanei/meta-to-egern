@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/chinatelecom@!cn.yaml
+domain_suffix_set:
+- chinatelecomglobal.com
+- chinatelecomhk.com
+- ctexcel.ca
+- ctexcel.com
+- ctexcel.com.hk
+- ctexcel.fr
+- ctexcel.us

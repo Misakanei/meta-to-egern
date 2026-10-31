@@ -1,0 +1,22 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-cdn-cn@cn.yaml
+domain_suffix_set:
+- cf-china.info
+- cf-ns.com
+- cf-ns.net
+- cf-ns.site
+- cf-ns.tech
+- cftest5.cn
+- cftest6.cn
+- cftest7.com
+- cftest8.com
+- cloudflare-cn.com
+- cloudflareanycast.net
+- cloudflarechina.cn
+- cloudflarecn.net
+- cloudflareglobal.net
+- cloudflareinsights-cn.com
+- cloudflareperf.com
+- cloudflareprod.com
+- cloudflarestaging.com
+- cloudflarestoragegw.com

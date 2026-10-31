@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/icloud@cn.yaml
+domain_suffix_set:
+- apple-icloud.cn
+- appleicloud.cn
+- icloud-apple.cn
+- icloud-content.com.cn
+- icloud.com.cn
+- icloud.net.cn
+- icloudapple.cn

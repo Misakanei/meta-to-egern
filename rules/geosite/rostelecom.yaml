@@ -1,0 +1,13 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/rostelecom.yaml
+domain_set:
+- sentry.iptv.rt.ru
+domain_suffix_set:
+- azbukainterneta.ru
+- more.tv
+- restream-media.net
+- restream.ru
+- rostelecom.ru
+- rt.ru
+- wink.am
+- wink.ru

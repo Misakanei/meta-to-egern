@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/justmysocks.yaml
+domain_suffix_set:
+- justmysocks.net
+- justmysocks1.net
+- justmysocks2.net
+- justmysocks4.net

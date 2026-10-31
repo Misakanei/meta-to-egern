@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/python.yaml
+domain_suffix_set:
+- pycon.org
+- pypa.io
+- pypi.io
+- pypi.org
+- python.org
+- pythonhosted.org

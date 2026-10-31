@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/le@ads.yaml
+domain_suffix_set:
+- apple.www.letv.com
+- ark.letv.com
+- dc.letv.com
+- g3.letv.com

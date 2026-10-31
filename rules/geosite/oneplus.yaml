@@ -1,0 +1,12 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/oneplus.yaml
+domain_set:
+- community.oneplus.com
+domain_suffix_set:
+- h2os.com
+- oneplus.cn
+- oneplus.com
+- oneplus.net
+- oneplusbbs.com
+- oneplusmobile.com
+- opstatics.com

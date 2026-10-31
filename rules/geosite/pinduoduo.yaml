@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/pinduoduo.yaml
+domain_suffix_set:
+- pddcdn.com
+- pddim.com
+- pddpic.com
+- pddugc.com
+- pinduoduo.com
+- pinduoduo.net
+- yangkeduo.com

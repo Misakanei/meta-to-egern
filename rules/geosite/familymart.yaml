@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/familymart.yaml
+domain_suffix_set:
+- famifun.com.tw
+- family.co.jp
+- family.com.tw
+- familymart.com.cn
+- familymart.com.my
+- familymart.com.ph
+- famima.vn

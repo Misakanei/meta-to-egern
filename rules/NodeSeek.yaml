@@ -1,6 +1,5 @@
-# Auto-generated from MetaCubeX/meta-rules-dat; DO NOT EDIT.
-# Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/nodeseek.yaml
-# Rule counts: domain_suffix_set=7
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/nodeseek.yaml
 domain_suffix_set:
 - 22112211.xyz
 - deepflood.com

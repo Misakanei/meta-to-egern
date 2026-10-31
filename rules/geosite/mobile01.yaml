@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/mobile01.yaml
+domain_suffix_set:
+- 5i01.com
+- mobile01.com

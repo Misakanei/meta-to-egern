@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/hashicorp.yaml
+domain_suffix_set:
+- consul.io
+- hashicorp.com
+- nomadproject.io
+- packer.io
+- terraform.io
+- vagrantcloud.com
+- vagrantup.com
+- vaultproject.io

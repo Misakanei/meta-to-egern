@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/afdian.yaml
+domain_suffix_set:
+- afdian.com
+- afdian.net
+- afdiancdn.com
+- ifdian.net

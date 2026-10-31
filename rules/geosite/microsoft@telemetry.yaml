@@ -1,0 +1,21 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/microsoft@telemetry.yaml
+domain_set:
+- copilot-telemetry-service.githubusercontent.com
+- copilot-telemetry.githubusercontent.com
+- dc.applicationinsights.azure.com
+- dc.services.visualstudio.com
+- live.applicationinsights.azure.com
+- rt.services.visualstudio.com
+domain_suffix_set:
+- applicationinsights.io
+- applicationinsights.net
+- aria.ms
+- browser.events.data.msn.cn
+- browser.events.data.msn.com
+- cafe.github.com
+- collector.github.com
+- data.microsoft.com
+- in.applicationinsights.azure.com
+- nelreports.net
+- telemetry.microsoft.com

@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/microsoft-dev@telemetry.yaml
+domain_set:
+- dc.services.visualstudio.com
+- rt.services.visualstudio.com

@@ -1,0 +1,22 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/meituan.yaml
+domain_suffix_set:
+- 100.me
+- 51ping.com
+- baobaoaichi.cn
+- ddcorp.net
+- ddfresh.net
+- ddimg.mobi
+- ddmaicai.net
+- ddmc.mobi
+- dduser.mobi
+- ddxq.mobi
+- dianping.com
+- dpfile.com
+- imaicai.mobi
+- maoyan.com
+- meituan.com
+- meituan.net
+- mtyun.com
+- neixin.cn
+- sankuai.com

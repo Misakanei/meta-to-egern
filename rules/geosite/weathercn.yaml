@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/weathercn.yaml
+domain_suffix_set:
+- hf-aw.cn
+- hf-aw.com
+- huafeng-accuweather.cn
+- huafengaw.com
+- weathercn.com

@@ -1,6 +1,5 @@
-# Auto-generated from MetaCubeX/meta-rules-dat; DO NOT EDIT.
-# Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.yaml
-# Rule counts: domain_set=239, domain_suffix_set=839
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/google.yaml
 domain_set:
 - 2mdn-cn.net
 - 2mdn.net

@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/nikke.yaml
+domain_suffix_set:
+- nikke-de.com
+- nikke-en.com
+- nikke-fr.com
+- nikke-jp.com
+- nikke-kr.com
+- nikke-sea.com

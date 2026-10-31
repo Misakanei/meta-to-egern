@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/beisen.yaml
+domain_suffix_set:
+- beisen.cn
+- beisen.com
+- beisenapp.com
+- beisencloud.com
+- beisenpaas.com
+- bsurl.cc
+- bsurl.cn
+- zhiye.com

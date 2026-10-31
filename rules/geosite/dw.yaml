@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/dw.yaml
+domain_set:
+- deutschewelle.h-cdn.com
+domain_suffix_set:
+- dw.com

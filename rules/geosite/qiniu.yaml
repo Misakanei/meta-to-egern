@@ -1,0 +1,13 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/qiniu.yaml
+domain_suffix_set:
+- qbox.me
+- qiniu.com
+- qiniucdn.com
+- qiniudn.com
+- qiniudns.com
+- qiniup.com
+- qnsdk.com
+- qnssl.com
+- staticfile.net
+- staticfile.org

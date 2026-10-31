@@ -1,0 +1,13 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/wordpress.yaml
+domain_suffix_set:
+- videopress.com
+- w.org
+- wordcamp.org
+- wordpress.com
+- wordpress.net
+- wordpress.org
+- wordpress.tv
+- wp-themes.com
+- wp.com
+- wpvip.com

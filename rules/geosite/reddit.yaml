@@ -1,0 +1,15 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/reddit.yaml
+domain_suffix_set:
+- redd.it
+- reddit.app.link
+- reddit.com
+- reddit.map.fastly.net
+- redditblog.com
+- reddithelp.com
+- redditinc.com
+- redditmail.com
+- redditmedia.com
+- redditspace.com
+- redditstatic.com
+- redditstatus.com

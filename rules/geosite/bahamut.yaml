@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/bahamut.yaml
+domain_set:
+- gamer-cds.cdn.hinet.net
+- gamer2-cds.cdn.hinet.net
+domain_suffix_set:
+- bahamut.akamaized.net
+- bahamut.com.tw
+- gamer.com.tw

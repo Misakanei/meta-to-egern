@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/mindbox@telemetry.yaml
+domain_set:
+- sentry.mindbox.ru
+- sentry.popmechanic.ru

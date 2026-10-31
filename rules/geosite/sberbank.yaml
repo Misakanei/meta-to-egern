@@ -1,0 +1,22 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/sberbank.yaml
+domain_set:
+- visor.sberbank.ru
+domain_suffix_set:
+- ads.sber.ru
+- bps-sberbank.by
+- clickstream.sberbank.ru
+- cplsb.ru
+- sber-bank.by
+- sber.ru
+- sberbank.com
+- sberbank.ru
+- sberspasibo.ru
+- sbrf.ru
+- spasibo.digital
+- spasibo.market
+- spasibobonus.ru
+- spasibosb.ru
+- spasibosberbank.ru
+- yookassa.ru
+- yoomoney.ru

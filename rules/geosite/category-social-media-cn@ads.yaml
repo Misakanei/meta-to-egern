@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-social-media-cn@ads.yaml
+domain_suffix_set:
+- crash2.zhihu.com
+- zhihu-web-analytics.zhihu.com

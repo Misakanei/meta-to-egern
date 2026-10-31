@@ -1,0 +1,17 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/openjsfoundation.yaml
+domain_set:
+- amp.akamaized.net
+- cdn.ampproject.org
+domain_suffix_set:
+- amp.dev
+- ampproject.com
+- ampproject.net
+- ampproject.org
+- electronjs.org
+- jquery.com
+- jquerymobile.com
+- jqueryui.com
+- mochajs.org
+- nodejs.org
+- openjsf.org

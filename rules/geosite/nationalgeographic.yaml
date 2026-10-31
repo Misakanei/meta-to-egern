@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/nationalgeographic.yaml
+domain_suffix_set:
+- natgeomaps.com
+- nationalgeographic.com
+- nationalgeographicpartners.com
+- ngeo.com

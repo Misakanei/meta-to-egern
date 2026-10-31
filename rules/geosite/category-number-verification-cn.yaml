@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-number-verification-cn.yaml
+domain_set:
+- enrichgw.10010.com
+- hap.10010.com
+- hs.wosms.cn
+- id6.me
+- opencloud.wostore.cn
+domain_suffix_set:
+- cmpassport.com

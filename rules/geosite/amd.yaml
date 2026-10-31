@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/amd.yaml
+domain_set:
+- drivers.amd.com
+domain_suffix_set:
+- amd.com
+- amd.com.cn
+- amdfanstore.com
+- amdgaming.com
+- radeon.com

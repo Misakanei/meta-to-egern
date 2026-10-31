@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/spotify@ads.yaml
+domain_set:
+- adeventtracker.spotify.com
+- adstudio-assets.scdn.co
+- bloodhound.spotify.com

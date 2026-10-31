@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/qingcloud.yaml
+domain_suffix_set:
+- frontwize.com
+- qingcache.com
+- qingcloud.com
+- qingstor.com
+- routewize.com
+- yunify.com

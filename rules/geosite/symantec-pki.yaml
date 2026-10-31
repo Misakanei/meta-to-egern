@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/symantec-pki.yaml
+domain_suffix_set:
+- pki.symantec.com
+- symauth.com
+- symcb.com
+- symcd.com
+- ws.symantec.com

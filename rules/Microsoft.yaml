@@ -1,6 +1,5 @@
-# Auto-generated from MetaCubeX/meta-rules-dat; DO NOT EDIT.
-# Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.yaml
-# Rule counts: domain_set=116, domain_suffix_set=637
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/microsoft.yaml
 domain_set:
 - az764295.vo.msecnd.net
 - azure.microsoft.com

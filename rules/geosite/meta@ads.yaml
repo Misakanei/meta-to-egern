@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/meta@ads.yaml
+domain_suffix_set:
+- analytics.facebook.com
+- facebookads.com
+- graph-fallback.instagram.com
+- graph.instagram.com
+- pixel.facebook.com

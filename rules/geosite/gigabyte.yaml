@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/gigabyte.yaml
+domain_set:
+- gigabyte2.azureedge.net
+- sa78gs.wpc.edgecastcdn.net
+- sni1dcb6gl.wpc.edgecastcdn.net
+domain_suffix_set:
+- aorus.com
+- aoruszone.cn
+- gigabyte.cn
+- gigabyte.com

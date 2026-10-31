@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-food-cn@ads.yaml
+domain_suffix_set:
+- logger.qmai.cn
+- tracking.mcdonalds.com.cn
+- trackingprd.hwwt8.com
+- trackserver.shuxinyc.com

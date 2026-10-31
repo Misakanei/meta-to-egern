@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/openrec.yaml
+domain_set:
+- dqd0jw5gvbchn.cloudfront.net
+domain_suffix_set:
+- openrec.tv

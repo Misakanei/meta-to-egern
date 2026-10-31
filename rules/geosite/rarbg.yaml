@@ -1,0 +1,21 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/rarbg.yaml
+domain_suffix_set:
+- dyncdn.me
+- proxyrarbg.org
+- rarbg.is
+- rarbg.me
+- rarbg.to
+- rarbgaccess.org
+- rarbgaccessed.org
+- rarbgget.org
+- rarbggo.org
+- rarbgmirror.com
+- rarbgmirror.org
+- rarbgproxy.org
+- rarbgprx.org
+- rarbgto.org
+- rarbgunblock.com
+- rarbgunblock.org
+- rarbgunblocked.org
+- rarbgway.org

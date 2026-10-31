@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/bootcdn.yaml
+domain_suffix_set:
+- bootcdn.cn
+- bootcdn.net
+- bootcss.com
+- phpcomposer.com

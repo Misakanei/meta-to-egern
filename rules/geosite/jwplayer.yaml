@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/jwplayer.yaml
+domain_suffix_set:
+- jwpcdn.com
+- jwplatform.com
+- jwplayer.com
+- jwpltx.com
+- jwpsrv.com
+- longtailvideo.com

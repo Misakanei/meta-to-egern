@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/supersonic@ads.yaml
+domain_suffix_set:
+- ssacdn.com
+- supersonic.com
+- supersonicads-a.akamaihd.net
+- supersonicads.com

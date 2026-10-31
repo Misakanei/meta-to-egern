@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/muji.yaml
+domain_suffix_set:
+- muji.com
+- muji.com.cn
+- muji.com.hk
+- muji.eu
+- muji.net
+- muji.tw
+- muji.us
+- mujikorea.net

@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/apple-intelligence.yaml
+domain_set:
+- apple-relay.apple.com
+- apple-relay.cloudflare.com
+- apple-relay.fastly-edge.com
+- apple-relay.mask.apple-dns.net
+- gspe1-ssl.ls.apple.com

@@ -1,0 +1,15 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-hospital-cn.yaml
+domain_set:
+- hospital.pku.edu.cn
+- ss.bjmu.edu.cn
+domain_suffix_set:
+- ba-hospital.com
+- cd120.com
+- cd120.info
+- fuwai.com
+- hnxzctec.com
+- pkuh6.cn
+- puh3.net.cn
+- smuszh.com
+- yctdyy.com

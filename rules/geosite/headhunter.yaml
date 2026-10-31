@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/headhunter.yaml
+domain_suffix_set:
+- hh.by
+- hh.kz
+- hh.ru
+- hhcdn.ru
+- rabota.by
+- setka.ru
+- talantix.ru
+- zarplata.ru

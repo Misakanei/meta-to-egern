@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/canva.yaml
+domain_suffix_set:
+- affinity-beta.s3.amazonaws.com
+- affinity-lessons.s3.amazonaws.com
+- affinity.api.serifservices.com
+- affinity.studio
+- canva.com
+- canvastatus.com

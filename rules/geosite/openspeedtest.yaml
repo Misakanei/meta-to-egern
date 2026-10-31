@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/openspeedtest.yaml
+domain_suffix_set:
+- open.cachefly.net
+- openspeedtest.com
+- openspeedtest.in
+- openspeedtest.org

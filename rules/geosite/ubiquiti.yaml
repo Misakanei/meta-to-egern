@@ -1,0 +1,16 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/ubiquiti.yaml
+domain_suffix_set:
+- amplifi.com
+- amplifi.com.cn
+- frontrow.com
+- frontrow.com.cn
+- ubncloud.com
+- ubnt.com
+- ubnt.com.cn
+- ui.com
+- ui.com.cn
+- uisp.com
+- uum.com.cn
+- uwn.com
+- wifiman.com

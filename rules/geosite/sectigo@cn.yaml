@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/sectigo@cn.yaml
+domain_suffix_set:
+- oemssl.cn
+- oemssl.cn.cdn.cloudflare.net
+- sectigochina.com
+- sectigochina.com.cdn.cloudflare.net
+- trust-provider.cn

@@ -1,0 +1,15 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-android-app-download.yaml
+domain_set:
+- apkmirror.disqus.com
+domain_suffix_set:
+- apkcombo.com
+- apkmirror.com
+- apkpure.com
+- apkpure.net
+- apkpures.xyz
+- cdnpure.com
+- pureapk.com
+- uptodown.com
+- utdstc.com
+- winudf.com

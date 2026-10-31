@@ -1,0 +1,16 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/fandom.yaml
+domain_set:
+- fandom.zendesk.com
+domain_suffix_set:
+- cortexrpg.com
+- cursecdn.com
+- dndbeyond.com
+- fanatical.com
+- fandom.com
+- futhead.com
+- gamepedia.com
+- muthead.com
+- wikia.com
+- wikia.nocookie.net
+- wikia.org

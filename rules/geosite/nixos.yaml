@@ -1,0 +1,16 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/nixos.yaml
+domain_set:
+- nix-community.github.io
+domain_suffix_set:
+- builtwithnix.org
+- mynixos.com
+- nix-community.org
+- nix.dev
+- nix.store
+- nixcon.org
+- nixcon2017.org
+- nixlang.com
+- nixos.org
+- nixos.wiki
+- nixpkgs.org

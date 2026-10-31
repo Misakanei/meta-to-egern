@@ -1,0 +1,12 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/google-play.yaml
+domain_set:
+- redirector.c.play.google.com
+domain_suffix_set:
+- googleplay.com
+- play-fe.googleapis.com
+- play-games.googleusercontent.com
+- play-lh.googleusercontent.com
+- play.google.com
+- play.googleapis.com
+- xn--ngstr-lra8j.com

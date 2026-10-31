@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/xai.yaml
+domain_suffix_set:
+- grok.com
+- grok.x.com
+- grokipedia.com
+- x.ai

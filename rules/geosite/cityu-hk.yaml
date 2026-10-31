@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/cityu-hk.yaml
+domain_suffix_set:
+- cityu.edu.hk
+- cityu.hk
+- xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g
+- xn--uis44a.xn--j6w193g

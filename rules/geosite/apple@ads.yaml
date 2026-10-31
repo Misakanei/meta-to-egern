@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/apple@ads.yaml
+domain_suffix_set:
+- advertising.apple.com
+- api-adservices.apple.com
+- iad.apple.com
+- iadsdk.apple.com
+- qwapi.com

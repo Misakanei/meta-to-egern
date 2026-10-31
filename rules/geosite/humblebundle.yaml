@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/humblebundle.yaml
+domain_set:
+- hb.imgix.net
+domain_suffix_set:
+- humblebundle.com

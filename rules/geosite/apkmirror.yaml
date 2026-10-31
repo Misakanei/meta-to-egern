@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/apkmirror.yaml
+domain_set:
+- apkmirror.disqus.com
+domain_suffix_set:
+- apkmirror.com

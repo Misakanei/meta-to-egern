@@ -1,0 +1,15 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/wenshushu.yaml
+domain_suffix_set:
+- wenshushu.cn
+- wenshushu.com
+- wenxiaozhan.cn
+- wenxiaozhan.com
+- wenxiaozhan.net
+- wss.cc
+- wss.email
+- wss.ink
+- wss.pet
+- wss.show
+- wss.zone
+- wss1.cn

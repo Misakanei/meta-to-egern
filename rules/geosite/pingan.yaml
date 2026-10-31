@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/pingan.yaml
+domain_suffix_set:
+- pingan.com
+- pingan.com.cn
+- pingan.com.hk
+- yqb.com

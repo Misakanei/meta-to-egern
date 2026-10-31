@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/netease@telemetry.yaml
+domain_suffix_set:
+- analytics.163.com
+- crash.163.com
+- crashlytics.163.com
+- sentry.music.163.com

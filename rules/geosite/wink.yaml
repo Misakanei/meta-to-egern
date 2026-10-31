@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/wink.yaml
+domain_suffix_set:
+- more.tv
+- restream-media.net
+- restream.ru
+- wink.am
+- wink.ru

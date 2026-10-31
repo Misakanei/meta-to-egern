@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/tmdb.yaml
+domain_set:
+- tmdb-image-prod.b-cdn.net
+- tmdb-web-image-prod.b-cdn.net
+domain_suffix_set:
+- themoviedb.org
+- tmdb.org

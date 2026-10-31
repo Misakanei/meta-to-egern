@@ -1,0 +1,14 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/peppy.yaml
+domain_set:
+- a.ppy.sh
+- assets.ppy.sh
+- c.ppy.sh
+- lazer.ppy.sh
+- m1.ppy.sh
+- notify.ppy.sh
+- osu.ppy.sh
+- sentry.ppy.sh
+- spectator.ppy.sh
+domain_suffix_set:
+- ppy.sh

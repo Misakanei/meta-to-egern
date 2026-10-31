@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/illgames.yaml
+domain_suffix_set:
+- illgames.jp
+- japan-illgames.com

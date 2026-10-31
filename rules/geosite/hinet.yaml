@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/hinet.yaml
+domain_suffix_set:
+- cht.com.tw
+- chtf.org.tw
+- emome.net
+- gtlsca.nat.gov.tw
+- hinet.net
+- xuite.net

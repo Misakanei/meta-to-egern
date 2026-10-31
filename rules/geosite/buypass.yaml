@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/buypass.yaml
+domain_suffix_set:
+- buypass-ssl.com
+- buypass.com
+- buypass.no
+- buypass.se
+- minid.no

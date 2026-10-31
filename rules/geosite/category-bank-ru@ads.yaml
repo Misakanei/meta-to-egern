@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-bank-ru@ads.yaml
+domain_set:
+- visor.sberbank.ru
+domain_suffix_set:
+- ads.sber.ru
+- clickstream.sberbank.ru

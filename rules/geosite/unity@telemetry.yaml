@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/unity@telemetry.yaml
+domain_suffix_set:
+- analytics.cloud.unity3d.com
+- perf-events.cloud.unity3d.com
+- perf.cloud.unity3d.com

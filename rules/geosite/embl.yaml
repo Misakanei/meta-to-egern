@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/embl.yaml
+domain_suffix_set:
+- ebi.ac.uk
+- embl-hamburg.de
+- embl.de
+- embl.fr
+- embl.it
+- embl.org
+- emblstatic.net

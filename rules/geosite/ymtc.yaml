@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/ymtc.yaml
+domain_suffix_set:
+- ymtc.cn
+- ymtc.com
+- ymtc.com.cn

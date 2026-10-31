@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-cdn-!cn@telemetry.yaml
+domain_suffix_set:
+- akstat.io
+- cloudflareinsights-cn.com
+- cloudflareinsights.com

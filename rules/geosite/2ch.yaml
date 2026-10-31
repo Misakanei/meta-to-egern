@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/2ch.yaml
+domain_suffix_set:
+- 2ch.hk
+- 2ch.life
+- 2ch.org
+- 2ch.su

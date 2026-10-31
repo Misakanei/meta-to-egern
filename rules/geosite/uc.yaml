@@ -1,0 +1,12 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/uc.yaml
+domain_suffix_set:
+- ads.uc.cn
+- adslot.uc.cn
+- open-uc.cn
+- uc-engine.cn
+- uc.cn
+- uc123.com
+- ucfly.com
+- ucweb.com
+- uczzd.cn

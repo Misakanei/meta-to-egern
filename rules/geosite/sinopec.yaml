@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/sinopec.yaml
+domain_suffix_set:
+- sinopec-usa.com
+- sinopec.com
+- sinopecgroup.com
+- sinopecnews.com.cn
+- sinopecsales.com

@@ -1,0 +1,23 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/google-registry-tld.yaml
+domain_suffix_set:
+- app
+- boo
+- dad
+- day
+- dev
+- esq
+- foo
+- how
+- ing
+- meme
+- mov
+- new
+- nexus
+- page
+- phd
+- prof
+- rsvp
+- soy
+- xn--q9jyb4c
+- zip

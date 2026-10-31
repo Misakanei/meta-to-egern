@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/termux.yaml
+domain_suffix_set:
+- termux.com
+- termux.dev
+- termux.org

@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/flickr.yaml
+domain_suffix_set:
+- flic.kr
+- flickr
+- flickr.com
+- flickr.net
+- staticflickr.com

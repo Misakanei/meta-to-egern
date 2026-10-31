@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/woolite.yaml
+domain_suffix_set:
+- woolite.ca
+- woolite.cn
+- woolite.com
+- woolite.com.cn
+- woolite.pl
+- woolite.us
+- woolitecarpet.com

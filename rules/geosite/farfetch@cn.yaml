@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/farfetch@cn.yaml
+domain_suffix_set:
+- farfetch.cn
+- farfetch.com.cn
+- farfetch.net.cn

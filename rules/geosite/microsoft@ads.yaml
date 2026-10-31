@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/microsoft@ads.yaml
+domain_suffix_set:
+- bingads.com
+- browser.events.data.msn.cn
+- browser.events.data.msn.com
+- clarity.ms
+- microsoftads.com
+- msads.net
+- nelreports.net

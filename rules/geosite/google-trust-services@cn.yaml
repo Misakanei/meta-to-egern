@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/google-trust-services@cn.yaml
+domain_set:
+- c.pki.goog
+- crl.pki.goog
+- crls.pki.goog
+- i.pki.goog
+- o.pki.goog
+- ocsp.pki.goog
+- pki-goog.l.google.com

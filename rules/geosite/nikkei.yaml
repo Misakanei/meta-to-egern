@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/nikkei.yaml
+domain_suffix_set:
+- nikkei-cnbc.co.jp
+- nikkei.co.jp
+- nikkei.com
+- nikkei.jp
+- nikkei4946.com
+- nikkeibp.co.jp

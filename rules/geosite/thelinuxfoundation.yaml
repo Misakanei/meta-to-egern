@@ -1,0 +1,21 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/thelinuxfoundation.yaml
+domain_set:
+- amp.akamaized.net
+- cdn.ampproject.org
+domain_suffix_set:
+- amp.dev
+- ampproject.com
+- ampproject.net
+- ampproject.org
+- electronjs.org
+- jquery.com
+- jquerymobile.com
+- jqueryui.com
+- kernel.org
+- lfai.foundation
+- linux.org
+- linuxfoundation.org
+- mochajs.org
+- nodejs.org
+- openjsf.org

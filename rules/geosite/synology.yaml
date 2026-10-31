@@ -1,0 +1,23 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/synology.yaml
+domain_suffix_set:
+- diskstation.me
+- dscloud.biz
+- dscloud.me
+- dscloud.mobi
+- dsmynas.com
+- dsmynas.net
+- dsmynas.org
+- familyds.com
+- familyds.net
+- familyds.org
+- gofile.me
+- i234.me
+- myds.me
+- quickconnect.cn
+- quickconnect.to
+- synology.cn
+- synology.com
+- synology.me
+- synologydownload.com
+- synologyupdate.com

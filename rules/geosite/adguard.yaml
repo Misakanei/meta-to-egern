@@ -1,0 +1,22 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/adguard.yaml
+domain_suffix_set:
+- adguard-dns.com
+- adguard-dns.io
+- adguard-mail.com
+- adguard-vpn.com
+- adguard-vpn.online
+- adguard.app
+- adguard.com
+- adguard.info
+- adguard.io
+- adguard.org
+- adguardaccount.com
+- adguardaccount.net
+- adguardcdn.com
+- adguardvpn.com
+- adtidy.net
+- adtidy.org
+- agrd.eu
+- agrd.io
+- mask.me

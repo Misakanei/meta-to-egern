@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/moji.yaml
+domain_suffix_set:
+- ad.api.moji.com
+- airnut.com
+- moji.com
+- moji001.com
+- moji002.com
+- mojicdn.com
+- mojichina.com

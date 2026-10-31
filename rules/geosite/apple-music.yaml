@@ -1,0 +1,22 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/apple-music.yaml
+domain_set:
+- amp-api-edge.music.apple.com
+- amp-api.music.apple.com
+- js-cdn.music.apple.com
+- music.apple.com
+- musicstatus.music.apple.com
+- play.music.apple.com
+- speedysub.music.apple.com
+domain_suffix_set:
+- applemusic.berlin
+- applemusic.co
+- applemusic.com
+- applemusic.com.au
+- applemusic.hamburg
+- applemusic.wang
+- applemusicconnect.com
+- applemusicfestival.com
+- music.apple.com
+- musickit.net
+- wwwapplemusic.com

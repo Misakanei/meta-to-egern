@@ -1,0 +1,19 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/hetzner.yaml
+domain_set:
+- sentry.hetzner.company
+domain_suffix_set:
+- first-ns.de
+- hetzner-cloud.de
+- hetzner.cloud
+- hetzner.com
+- hetzner.company
+- hetzner.de
+- hetzner.social
+- htznr.li
+- second-ns.com
+- second-ns.de
+- your-objectstorage.com
+- your-server.de
+- your-storagebox.de
+- your-storageshare.de

@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/sci-hub.yaml
+domain_suffix_set:
+- sci-hub.ee
+- sci-hub.it.nf
+- sci-hub.mksa.top
+- sci-hub.se
+- sci-hub.st
+- sci.hubg.org

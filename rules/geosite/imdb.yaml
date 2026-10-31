@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/imdb.yaml
+domain_suffix_set:
+- boxofficemojo.com
+- imdb
+- imdb.com
+- imdb.to
+- media-imdb.com

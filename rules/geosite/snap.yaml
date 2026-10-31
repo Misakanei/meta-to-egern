@@ -1,0 +1,13 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/snap.yaml
+domain_set:
+- impala-media-production.s3.amazonaws.com
+domain_suffix_set:
+- sc-cdn.net
+- sc-gw.com
+- sc-static.net
+- snap-dev.net
+- snap.com
+- snapads.com
+- snapchat.com
+- snapkit.co

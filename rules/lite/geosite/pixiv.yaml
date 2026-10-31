@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo-lite/geosite/pixiv.yaml
+domain_suffix_set:
+- booth.pm
+- fanbox.cc
+- pixiv.cat
+- pixiv.co.jp
+- pixiv.me
+- pixiv.net
+- pixiv.org
+- pximg.net

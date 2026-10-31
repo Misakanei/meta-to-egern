@@ -1,0 +1,12 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/bing@cn.yaml
+domain_set:
+- bj1.api.bing.com
+domain_suffix_set:
+- bing.com.cn
+- cn.bing.com
+- cn.bing.net
+- cn.mm.bing.net
+- ditu.live.com
+- r.bing.com
+- th.bing.com

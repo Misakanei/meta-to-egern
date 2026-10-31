@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-ai-chat-!cn@telemetry.yaml
+domain_set:
+- browser-intake-datadoghq.com
+- copilot-telemetry-service.githubusercontent.com
+- copilot-telemetry.githubusercontent.com
+- o33249.ingest.sentry.io
+- o33249.ingest.us.sentry.io

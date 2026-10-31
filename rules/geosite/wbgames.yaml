@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/wbgames.yaml
+domain_set:
+- datarouter.apps.netherrealm.com
+- wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+domain_suffix_set:
+- warnerbrosgames.com
+- wbagora.com
+- wbgames.com
+- wbinsights.com

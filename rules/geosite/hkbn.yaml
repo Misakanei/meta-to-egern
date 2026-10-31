@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/hkbn.yaml
+domain_suffix_set:
+- csifund.org
+- hkbn.com.hk
+- hkbn.net
+- hkbnes.net
+- jos.com
+- speedtest.com.hk

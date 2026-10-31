@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/pagecdn.yaml
+domain_suffix_set:
+- pagecdn.com
+- pagecdn.io

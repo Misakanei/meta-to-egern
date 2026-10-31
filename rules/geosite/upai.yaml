@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/upai.yaml
+domain_suffix_set:
+- aicdn.com
+- oncdp.com
+- upai.com
+- upaiyun.com
+- upcdn.net
+- upyun.com

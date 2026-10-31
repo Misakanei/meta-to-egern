@@ -1,0 +1,23 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/anthropic.yaml
+domain_set:
+- servd-anthropic-website.b-cdn.net
+domain_suffix_set:
+- ant.dev
+- anthropic.com
+- anthropic.team
+- antspace.dev
+- chatbotclaude.com
+- clau.de
+- claude.ai
+- claude.app
+- claude.com
+- claude.dev
+- claude.new
+- claude.site
+- claudeacademy.com
+- claudemcpclient.com
+- claudemcpcontent.com
+- claudepages.dev
+- claudestudio.com
+- claudeusercontent.com

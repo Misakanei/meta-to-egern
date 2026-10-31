@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/gmo-internet@cn.yaml
+domain_set:
+- cdn.globalsigncdn.com.cdn.cloudflare.net
+- crl.globalsign.net
+domain_suffix_set:
+- alphassl.com
+- easy-signing.com
+- globalsign.cn
+- globalsign.com
+- globalsigncdn.com

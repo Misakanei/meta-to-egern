@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/metabrainz.yaml
+domain_suffix_set:
+- acousticbrainz.org
+- bookbrainz.org
+- coverartarchive.org
+- critiquebrainz.org
+- listenbrainz.org
+- messybrainz.org
+- metabrainz.org
+- musicbrainz.org

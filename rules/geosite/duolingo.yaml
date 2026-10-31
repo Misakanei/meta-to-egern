@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/duolingo.yaml
+domain_suffix_set:
+- ads-api.duolingo.com
+- analytics.vpc.duolingo.com
+- duolingo.cn
+- duolingo.com
+- metrics.duolingo.com

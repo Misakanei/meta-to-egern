@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/douyu.yaml
+domain_suffix_set:
+- douyu.com
+- douyu.tv
+- douyucdn.cn
+- douyucdn2.cn
+- douyuscdn.com
+- douyutv.com
+- edgesrv.com

@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/hunantv@ads.yaml
+domain_suffix_set:
+- click.hunantv.com
+- da.hunantv.com
+- da.mgtv.com
+- log.hunantv.com
+- log.v2.hunantv.com
+- res.hunantv.com

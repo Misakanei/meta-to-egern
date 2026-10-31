@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/dell@cn.yaml
+domain_suffix_set:
+- dell-alw.com
+- dell-brand.com
+- dell.com.cn
+- dellemc.com.cn
+- dellmobile.cn
+- delltechnologies.com.cn
+- platform.dell.com

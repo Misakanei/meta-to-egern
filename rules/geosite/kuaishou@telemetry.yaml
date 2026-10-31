@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/kuaishou@telemetry.yaml
+domain_set:
+- apilog-web.acfun.cn
+- log-sdk.gifshow.com
+- wlog.kuaishou.com

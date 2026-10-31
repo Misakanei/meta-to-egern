@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/fastly.yaml
+domain_suffix_set:
+- fastly-edge.com
+- fastly-terrarium.com
+- fastly.com
+- fastly.io
+- fastly.net
+- fastlylabs.com
+- fastlylb.net

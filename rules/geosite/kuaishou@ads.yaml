@@ -1,0 +1,12 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/kuaishou@ads.yaml
+domain_set:
+- apilog-web.acfun.cn
+- log-sdk.gifshow.com
+- wlog.kuaishou.com
+domain_suffix_set:
+- adbkwai.com
+- adkwai.com
+- adukwai.com
+- e.kuaishou.cn
+- e.kuaishou.com

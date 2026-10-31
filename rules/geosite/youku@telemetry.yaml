@@ -1,0 +1,13 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/youku@telemetry.yaml
+domain_suffix_set:
+- adashx.ut.youku.com
+- e.stat.ykimg.com
+- h-adashx.ut.youku.com
+- lstat.youku.com
+- p-log.ykimg.com
+- passport-log.youku.com
+- s-adashx.ut.youku.com
+- stat.youku.com
+- statis.api.3g.youku.com
+- v6-adashx.ut.youku.com

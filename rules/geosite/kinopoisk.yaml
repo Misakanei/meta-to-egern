@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/kinopoisk.yaml
+domain_set:
+- kp-config-smart-tv.akamaized.net
+- kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+domain_suffix_set:
+- kinopoisk-ru.clstorage.net
+- kinopoisk.ru
+- kp.yandex.net

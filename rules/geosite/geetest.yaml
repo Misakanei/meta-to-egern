@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/geetest.yaml
+domain_set:
+- geetest.datasink.sensorsdata.cn
+domain_suffix_set:
+- geetest.com

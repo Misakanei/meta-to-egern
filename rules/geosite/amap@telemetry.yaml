@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/amap@telemetry.yaml
+domain_suffix_set:
+- adashx.ut.amap.com
+- dualstack-logs.amap.com
+- logs.amap.com
+- v6-adashx.ut.amap.com

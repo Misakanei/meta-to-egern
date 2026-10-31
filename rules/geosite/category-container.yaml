@@ -1,0 +1,12 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-container.yaml
+domain_suffix_set:
+- azurecr.io
+- docker.io
+- ecr.aws
+- gcr.io
+- ghcr.io
+- mcr.microsoft.com
+- quay.io
+- registry.gitlab.com
+- registry.k8s.io

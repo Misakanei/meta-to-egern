@@ -1,0 +1,17 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/dnspod.yaml
+domain_suffix_set:
+- dns.pub
+- dnsapi.cn
+- dnspod.cn
+- dnspod.com
+- dnspod.com.cn
+- dnspod.mobi
+- dnspod.net
+- dnspod.org
+- dnsv2.com
+- dnsv3.com
+- dnsv4.com
+- dnsv5.com
+- doh.pub
+- dot.pub

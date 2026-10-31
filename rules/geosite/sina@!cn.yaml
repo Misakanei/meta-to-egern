@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/sina@!cn.yaml
+domain_suffix_set:
+- hk.weibo.com
+- my.weibo.com
+- overseas.weibo.com
+- sg.weibo.com
+- th.weibo.com
+- tw.weibo.com
+- us.weibo.com

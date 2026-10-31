@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/yahoo@cn.yaml
+domain_suffix_set:
+- yahoo.cn
+- yahoo.com.cn

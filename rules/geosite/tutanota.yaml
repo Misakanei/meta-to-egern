@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/tutanota.yaml
+domain_suffix_set:
+- keemail.me
+- tuta.com
+- tuta.io
+- tutamail.com
+- tutanota.com
+- tutanota.de

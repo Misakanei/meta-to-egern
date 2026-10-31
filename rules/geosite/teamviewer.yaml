@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/teamviewer.yaml
+domain_set:
+- client-teamviewer-com.trafficmanager.net
+- teamviewer.com.cdn.cloudflare.net
+domain_suffix_set:
+- teamviewer.cn
+- teamviewer.com
+- teamviewer.us

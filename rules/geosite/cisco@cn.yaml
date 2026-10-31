@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/cisco@cn.yaml
+domain_suffix_set:
+- cisco.cn
+- cisco.com.cn
+- network-auth.cn
+- webex.com.cn

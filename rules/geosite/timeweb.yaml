@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/timeweb.yaml
+domain_suffix_set:
+- timeweb.cloud
+- timeweb.com
+- timeweb.tech
+- timewebcloud.kz
+- twcstorage.ru

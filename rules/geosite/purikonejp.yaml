@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/purikonejp.yaml
+domain_set:
+- prd-priconne-redive.akamaized.net
+domain_suffix_set:
+- api-priconne-redive.cygames.jp
+- omotenashi.cygames.jp
+- priconne-redive.jp

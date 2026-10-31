@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/archlinux.yaml
+domain_suffix_set:
+- archlinux.de
+- archlinux.org
+- archlinux.page
+- archlinuxarm.org
+- archlinuxcn.org
+- pkgbuild.com

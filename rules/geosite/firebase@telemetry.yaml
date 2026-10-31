@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/firebase@telemetry.yaml
+domain_set:
+- crashlyticsreports-pa.googleapis.com
+- firebase-settings.crashlytics.com
+- firebaselogging-pa.googleapis.com
+- firebaselogging.googleapis.com
+- update.crashlytics.com

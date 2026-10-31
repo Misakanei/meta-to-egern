@@ -1,0 +1,14 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/slack.yaml
+domain_suffix_set:
+- slack-core.com
+- slack-edge.com
+- slack-files.com
+- slack-imgs.com
+- slack-msgs.com
+- slack-redir.net
+- slack.com
+- slackb.com
+- slackcertified.com
+- slackdemo.com
+- slackhq.com

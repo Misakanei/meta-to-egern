@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-games@telemetry.yaml
+domain_set:
+- sentry.ppy.sh
+domain_suffix_set:
+- insights-collector.gog.com
+- log-upload-os.hoyoverse.com
+- log-upload.mihoyo.com

@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-dev-cn@ads.yaml
+domain_suffix_set:
+- ads.unitychina.cn
+- badjs.weixinbridge.com
+- splash-ads.cdn.unity.cn
+- splash-ads.unitychina.cn
+- unityads.unity.cn
+- unityads.unitychina.cn

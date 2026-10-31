@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/hotstar.yaml
+domain_suffix_set:
+- hotstar-cdn.net
+- hotstar-labs.com
+- hotstar.com
+- hotstarext.com
+- hsprepack.akamaized.net

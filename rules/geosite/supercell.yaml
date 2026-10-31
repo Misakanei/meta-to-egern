@@ -1,0 +1,27 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/supercell.yaml
+domain_set:
+- supercell.helpshift.com
+- supercell.zendesk.com
+domain_suffix_set:
+- boombeach.com
+- brawlstars.com
+- brawlstarsgame.com
+- clash.com
+- clashmini.com
+- clashofclans.com
+- clashroyale.com
+- clashroyaleapp.com
+- gamesfirsthelsinki.com
+- hayday.com
+- haydaygame.com
+- mo.co
+- seeurlpcl.com
+- squadbusters.com
+- supercell.com
+- supercell.net
+- supercellcreators.com
+- supercellgames.com
+- supercellid.com
+- supercellstore.com
+- supr.cl

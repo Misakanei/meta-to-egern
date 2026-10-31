@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/forza.yaml
+domain_set:
+- prodforza.blob.core.windows.net
+domain_suffix_set:
+- forza.net
+- forzamotorsport.net
+- forzaracingchampionship.com
+- forzarc.com

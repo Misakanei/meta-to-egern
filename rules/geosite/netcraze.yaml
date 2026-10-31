@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/netcraze.yaml
+domain_suffix_set:
+- crazedns.ru
+- netcraze.club
+- netcraze.link
+- netcraze.pro
+- netcraze.ru

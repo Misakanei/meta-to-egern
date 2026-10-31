@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/dongchedi.yaml
+domain_suffix_set:
+- dcarapi.com
+- dcarimg.com
+- dcarlive.com
+- dcarstatic.com
+- dcarvod.com
+- dcdapp.com
+- dongchedi.com
+- dongchediapp.com

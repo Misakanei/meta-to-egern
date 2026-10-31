@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/mikrotik.yaml
+domain_suffix_set:
+- mikrotik.com
+- mt.lv
+- mynetname.net
+- routerboard.com

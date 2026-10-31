@@ -1,0 +1,16 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/zoho.yaml
+domain_suffix_set:
+- zoho.com
+- zoho.com.au
+- zoho.eu
+- zoho.in
+- zohocdn.com
+- zohomeetups.com
+- zohomerchandise.com
+- zohopublic.com
+- zohoschools.com
+- zohostatic.com
+- zohostatic.in
+- zohouniversity.com
+- zohowebstatic.com

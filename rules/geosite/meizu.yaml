@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/meizu.yaml
+domain_suffix_set:
+- flyme.cn
+- flyme.com
+- flymeauto.com
+- meizu.cn
+- meizu.com
+- mzres.com

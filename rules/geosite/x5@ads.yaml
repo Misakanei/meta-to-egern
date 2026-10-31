@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/x5@ads.yaml
+domain_set:
+- ads.x5.ru
+- ads.x5media.ru
+- sentry.x5.ru

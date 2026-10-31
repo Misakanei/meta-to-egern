@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/matters.yaml
+domain_suffix_set:
+- matters.news
+- matters.one
+- matters.town
+- mattersprotocol.io

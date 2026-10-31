@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/xiaomi-ai.yaml
+domain_suffix_set:
+- miaibox.com
+- xiaoaiassist.com
+- xiaomimimo.com

@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/openx@ads.yaml
+domain_suffix_set:
+- openx.net
+- openxadexchange.com
+- openxcdn.net
+- openxenterprise.com
+- openxmarket.asia

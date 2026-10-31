@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/standardchartered.yaml
+domain_set:
+- standchartbank.sc.omtrdc.net
+- standchartbank.tt.omtrdc.net
+domain_suffix_set:
+- sc.com
+- standardchartered.com

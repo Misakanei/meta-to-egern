@@ -1,0 +1,19 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/tencent-dev.yaml
+domain_suffix_set:
+- badjs.weixinbridge.com
+- cnb.cool
+- cnb.space
+- coding.me
+- coding.net
+- openmidas.com
+- qq.design
+- qqgamedesign.com
+- tencent-cloud.cn
+- tencent-cloud.com
+- tencent.design
+- tencentcloud.com
+- tjstats.com
+- wegamedeveloper.com
+- weixinbridge.com
+- weui.io

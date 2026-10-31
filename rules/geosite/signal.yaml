@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/signal.yaml
+domain_suffix_set:
+- signal.art
+- signal.group
+- signal.link
+- signal.me
+- signal.org
+- signal.tube
+- signalusers.org
+- whispersystems.org

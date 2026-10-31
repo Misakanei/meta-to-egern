@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/sto-express.yaml
+domain_suffix_set:
+- sto-express.cn
+- sto-express.com
+- sto-express.com.cn
+- sto.cn
+- stointl.com
+- stosolution.com

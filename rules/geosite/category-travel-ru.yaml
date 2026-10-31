@@ -1,0 +1,29 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-travel-ru.yaml
+domain_set:
+- arenda.yandex.ru
+- bilet.nspk.ru
+- metro.spb.ru
+- mos.transport.vtb.ru
+- podorozhnik.spb.ru
+- taxi.yandex.ru
+- transport.mos.ru
+domain_suffix_set:
+- 2gis.ru
+- aviasales.com
+- aviasales.ru
+- avs.io
+- avtovokzaly.ru
+- blablacar.ru
+- fasten.ru
+- gorodpay.ru
+- greywallpass.com
+- mosmetro.ru
+- mosmetro.tech
+- ostrovok.ru
+- otello.ru
+- rrtp.ru
+- rzd-bonus.ru
+- rzd.ru
+- sber.ru
+- tutu.ru

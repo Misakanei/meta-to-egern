@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/annas-archive.yaml
+domain_suffix_set:
+- annas-archive.gd
+- annas-archive.gl
+- annas-archive.in
+- annas-archive.li
+- annas-archive.org
+- annas-archive.pk
+- annas-archive.pm
+- annas-archive.se

@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/cygames.yaml
+domain_suffix_set:
+- cygames.co.jp
+- cygames.jp
+- umamusume.akamaized.net
+- worldflipper.akamaized.net
+- worldflipper.jp

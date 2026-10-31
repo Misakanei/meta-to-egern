@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/pubg.yaml
+domain_set:
+- pubg1.battleye.com
+domain_suffix_set:
+- kraftonde.com
+- playbattlegrounds.com
+- pubg.com

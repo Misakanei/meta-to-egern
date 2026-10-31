@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/bethesda.yaml
+domain_suffix_set:
+- beth.games
+- bethesda.net
+- bethesdagamestudios.com
+- bethsoft.com
+- doom.com
+- elderscrolls.com

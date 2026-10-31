@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/tilda.yaml
+domain_suffix_set:
+- tilda.cc
+- tilda.ru
+- tilda.ws
+- tildaapi.com
+- tildacdn.com
+- tildacdn.net

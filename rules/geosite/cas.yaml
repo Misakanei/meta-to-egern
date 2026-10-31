@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/cas.yaml
+domain_suffix_set:
+- csdl.ac.cn
+- iscas.ac.cn
+- las.ac.cn

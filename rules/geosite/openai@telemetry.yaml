@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/openai@telemetry.yaml
+domain_set:
+- browser-intake-datadoghq.com
+- o33249.ingest.sentry.io
+- o33249.ingest.us.sentry.io

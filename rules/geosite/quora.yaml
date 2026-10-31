@@ -1,0 +1,10 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/quora.yaml
+domain_set:
+- www.quora.com.cdn.cloudflare.net
+domain_suffix_set:
+- poe.com
+- poecdn.net
+- qr.ae
+- quora.com
+- quoracdn.net

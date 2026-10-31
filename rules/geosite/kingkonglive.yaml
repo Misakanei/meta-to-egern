@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/kingkonglive.yaml
+domain_suffix_set:
+- kingkong.com.tw
+- kingkongapp.com

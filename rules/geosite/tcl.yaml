@@ -1,0 +1,15 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/tcl.yaml
+domain_suffix_set:
+- ads-uo.api.leiniao.com
+- ads-ut.api.leiniao.com
+- ads.api.my7v.com
+- euads-o.api.leiniao.com
+- hwads-t.api.my7v.com
+- leiniao.com
+- my7v.com
+- tcl.com
+- tcl.com.cn
+- tclai.top
+- tcltech.com
+- testads.api.my7v.com

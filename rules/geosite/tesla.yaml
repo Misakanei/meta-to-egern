@@ -1,0 +1,14 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/tesla.yaml
+domain_suffix_set:
+- solarcity.com
+- tesla.cn
+- tesla.com
+- tesla.com.cn
+- tesla.services
+- teslaenergy.services
+- teslamotors.cn
+- teslamotors.com
+- teslamotors.com.cn
+- teslazta.net
+- ts.la

@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/cambridge.yaml
+domain_suffix_set:
+- cam.ac.uk
+- cambridge.org
+- cambridgedigital.net
+- cambridgemaths.org
+- cambridgeschoolshakespeare.com
+- dlib.eastview.com

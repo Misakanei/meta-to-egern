@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/roku.yaml
+domain_suffix_set:
+- fandango.com
+- mgo-images.com
+- mgo.com
+- ravm.tv
+- roku.com
+- rokutime.com

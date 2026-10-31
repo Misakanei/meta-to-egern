@@ -1,0 +1,23 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/chinatelecom.yaml
+domain_suffix_set:
+- 189.cn
+- 189cube.com
+- 189smarthome.com
+- 21cn.com
+- bestpay.cn
+- bestpay.com.cn
+- chinatelecom-h.com
+- chinatelecom.com.cn
+- chinatelecomglobal.com
+- chinatelecomhk.com
+- chntel.com
+- ctexcel.ca
+- ctexcel.com
+- ctexcel.com.hk
+- ctexcel.fr
+- ctexcel.us
+- dlife.cn
+- play.cn
+- tv189.com
+- vnet.cn

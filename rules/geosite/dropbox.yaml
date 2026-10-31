@@ -1,0 +1,29 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/dropbox.yaml
+domain_set:
+- dropbox.zendesk.com
+- paper-attachments.s3.amazonaws.com
+domain_suffix_set:
+- addtodropbox.com
+- dash.ai
+- db.tt
+- docsend.com
+- dropbox-dns.com
+- dropbox.com
+- dropbox.tech
+- dropboxapi.com
+- dropboxbusiness.com
+- dropboxcaptcha.com
+- dropboxexperiment.com
+- dropboxforum.com
+- dropboxforums.com
+- dropboxinsiders.com
+- dropboxlegal.com
+- dropboxmail.com
+- dropboxpartners.com
+- dropboxstatic.com
+- dropboxteam.com
+- dropboxusercontent.com
+- getdropbox.com
+- hellofax.com
+- hellosign.com

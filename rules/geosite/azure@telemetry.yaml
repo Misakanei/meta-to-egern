@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/azure@telemetry.yaml
+domain_set:
+- dc.applicationinsights.azure.com
+- live.applicationinsights.azure.com
+domain_suffix_set:
+- in.applicationinsights.azure.com

@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/comfy.yaml
+domain_suffix_set:
+- comfy.org
+- comfyci.org
+- comfyregistry.org
+- oystermercury.top

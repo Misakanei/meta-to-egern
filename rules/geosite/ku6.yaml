@@ -1,0 +1,6 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/ku6.yaml
+domain_suffix_set:
+- ku6.com
+- ku6cdn.com
+- ku6img.com

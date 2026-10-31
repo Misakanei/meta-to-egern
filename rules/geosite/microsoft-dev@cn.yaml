@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/microsoft-dev@cn.yaml
+domain_set:
+- download.visualstudio.microsoft.com
+domain_suffix_set:
+- microsoftreactor.cn
+- microsoftreactor.com.cn
+- reactorms.com.cn

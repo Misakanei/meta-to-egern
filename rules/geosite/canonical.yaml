@@ -1,0 +1,15 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/canonical.yaml
+domain_suffix_set:
+- canonical.com
+- launchpad.net
+- launchpadcontent.net
+- launchpadlibrarian.com
+- launchpadlibrarian.net
+- launchpadlibrarian.org
+- snapcraft.io
+- snapstore.io
+- ubuntu-touch.io
+- ubuntu.com
+- ubuntu.net
+- ubuntuforums.org

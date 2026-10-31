@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/wildberries@telemetry.yaml
+domain_set:
+- analytics-stage.wildberries.ru
+- analytics.wildberries.ru
+- marketplace-sentry.wb.ru
+- sentry.wb.ru
+- web-analytics.wildberries.ru

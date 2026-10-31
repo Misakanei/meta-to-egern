@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/suning.yaml
+domain_suffix_set:
+- cnsuning.com
+- suning.cn
+- suning.com
+- suningcloud.com
+- suningestate.com
+- suningholdings.com

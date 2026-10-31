@@ -1,0 +1,8 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/dyna.yaml
+domain_suffix_set:
+- dynacw.co.jp
+- dynacw.com
+- dynacw.com.cn
+- dynacw.com.hk
+- dynacw.com.tw

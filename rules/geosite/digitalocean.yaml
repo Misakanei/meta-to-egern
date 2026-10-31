@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/digitalocean.yaml
+domain_suffix_set:
+- digitalocean-ui.com
+- digitalocean.com
+- digitaloceanspaces.com
+- do.co
+- nginxconfig.io
+- ondigitalocean.com

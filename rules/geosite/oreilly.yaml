@@ -1,0 +1,9 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/oreilly.yaml
+domain_suffix_set:
+- oreil.ly
+- oreilly.com
+- oreilly.com.cn
+- oreilly.review
+- oreillystatic.com
+- orl.ly

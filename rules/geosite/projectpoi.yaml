@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/projectpoi.yaml
+domain_suffix_set:
+- poi.icu
+- poi6.net
+- poihub.com
+- project-poi.com
