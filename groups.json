@@ -1,0 +1,13 @@
+{
+  "NodeSeek": "nodeseek",
+  "AI": "openai",
+  "TG": "telegram",
+  "Google": "google",
+  "YouTube": "youtube",
+  "Twitter": "twitter",
+  "Instagram": "instagram",
+  "WhatsApp": "whatsapp",
+  "PayPal": "paypal",
+  "Bing": "bing",
+  "Microsoft": "microsoft"
+}
