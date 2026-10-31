@@ -1,5 +1,13 @@
 name: Convert MetaCubeX to Egern
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-rules.yml'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'groups.json'
+      - 'requirements.txt'
   schedule:
     # Daily 10:17 Beijing time (GitHub may delay scheduled jobs)
     - cron: '17 2 * * *'
