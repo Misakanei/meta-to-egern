@@ -1,4 +1,5 @@
-name: Convert MetaCubeX to Egern
+name: Mirror MetaCubeX rules for Egern
+
 on:
   push:
     branches: [main]
@@ -9,19 +10,69 @@ on:
       - 'groups.json'
       - 'requirements.txt'
   schedule:
-    # Daily 10:17 Beijing time (GitHub may delay scheduled jobs)
+    # Beijing time 10:17 every day; GitHub may delay scheduled jobs.
     - cron: '17 2 * * *'
   workflow_dispatch:
+    inputs:
+      asn:
+        description: 'Optional ASN CIDRs to publish, e.g. AS13335,AS15169. Empty = full GeoSite+GeoIP mirror.'
+        type: string
+        required: false
+        default: ''
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-egern-rules
+  group: sync-metacubex-egern
   cancel-in-progress: false
 
 jobs:
-  convert:
+  full-mirror:
+    if: ${{ github.event_name != 'workflow_dispatch' || inputs.asn == '' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Check out destination repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Check out upstream MetaCubeX (sparse; skip huge ASN directory)
+        uses: actions/checkout@v4
+        with:
+          repository: MetaCubeX/meta-rules-dat
+          ref: meta
+          path: upstream
+          sparse-checkout: |
+            geo/geosite
+            geo/geoip
+            geo-lite/geosite
+            geo-lite/geoip
+          sparse-checkout-cone-mode: true
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+      - name: Validate and mirror every YAML category
+        run: |
+          python -m unittest discover -s tests -v
+          python scripts/convert.py --upstream upstream
+      - name: Commit generated rules and index
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A rules/ catalog/
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: mirror all MetaCubeX GeoSite and GeoIP categories'
+            git push
+          else
+            echo 'Upstream contents unchanged'
+          fi
+
+  selected-asn:
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.asn != '' }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -29,20 +80,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install dependencies
-        run: python -m pip install --disable-pip-version-check -r requirements.txt
-      - name: Validate converter and regenerate rules
+      - run: python -m pip install --disable-pip-version-check -r requirements.txt
+      - name: Publish selected upstream ASN IP prefix rules
+        env:
+          ASN_SELECTION: ${{ inputs.asn }}
         run: |
           python -m unittest discover -s tests -v
-          python scripts/convert.py
-      - name: Commit generated files
+          python scripts/convert_asn.py --asn "$ASN_SELECTION"
+      - name: Commit selected ASN categories
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add rules/
+          git add rules/asn/
           if ! git diff --cached --quiet; then
-            git commit -m 'chore: sync Egern rules from MetaCubeX'
+            git commit -m 'chore: publish selected ASN prefix rules'
             git push
           else
-            echo 'Rules are already up to date'
+            echo 'ASN rules unchanged'
           fi
