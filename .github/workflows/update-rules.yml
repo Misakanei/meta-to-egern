@@ -59,13 +59,15 @@ jobs:
         run: |
           python -m unittest discover -s tests -v
           python scripts/convert.py --upstream upstream
+      - name: Refresh previously published ASN CIDR snapshots
+        run: python scripts/convert_asn.py --refresh
       - name: Commit generated rules and index
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A rules/ catalog/
           if ! git diff --cached --quiet; then
-            git commit -m 'chore: mirror all MetaCubeX GeoSite and GeoIP categories'
+            git commit -m 'chore: mirror MetaCubeX GeoSite, GeoIP and published ASN'
             git push
           else
             echo 'Upstream contents unchanged'
