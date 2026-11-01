@@ -14,8 +14,10 @@ class ASNTests(unittest.TestCase):
                          ["AS13335", "AS15169"])
         with self.assertRaises(ValueError):
             normalize_asns(["ASx"])
+        # An empty manual selection is invalid; an empty refresh is a no-op.
         with self.assertRaises(ValueError):
-            normalize_asns([])
+            normalize_asns([], limit=20)
+        self.assertEqual(normalize_asns([]), [])
         with self.assertRaises(ValueError):
             normalize_asns([f"AS{i}" for i in range(21)], limit=20)
 
