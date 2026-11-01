@@ -231,6 +231,7 @@ domain_suffix_set:
 - api.recaptcha.net
 - api.shuaiapi.com
 - api.steampowered.com
+- api.themoviedb.org
 - apiary.io
 - apigee.com
 - apk.support
@@ -3727,6 +3728,7 @@ domain_suffix_set:
 - torproject.org
 - torrentgalaxy.to
 - torrentkitty.tv
+- torrentleech.org
 - torrentprivacy.com
 - torrentproject.se
 - torrenty.org
@@ -4352,6 +4354,7 @@ domain_suffix_set:
 - youtubegaming.com
 - youtubekids.com
 - youversion.com
+- youversionapi.com
 - youwin.com
 - youxu.info
 - yt.be

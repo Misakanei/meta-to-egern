@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "e11abe987d686ab803ba4f7cd018324852a6befd",
+  "upstream_sha": "cf25ccf5046dd902befc64bff21c0047244796a9",
   "categories": {
     "geosite": 2017,
     "geoip": 260,
@@ -9,7 +9,7 @@
     "lite/geoip": 12
   },
   "asn_count": 82439,
-  "asn_mode": "on-demand; see scripts/convert_asn.py",
+  "asn_mode": "native-asn-all; published-cidr-snapshots-daily-refresh",
   "rules": {
     "geosite": {
       "0x0": {
@@ -3298,7 +3298,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27280
+        "count": 27282
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -3322,7 +3322,7 @@
       },
       "gfw": {
         "path": "rules/geosite/gfw.yaml",
-        "count": 4429
+        "count": 4432
       },
       "gfycat": {
         "path": "rules/geosite/gfycat.yaml",
