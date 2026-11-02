@@ -1,12 +1,14 @@
 # Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
 # Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/category-electronic-cn.yaml
 domain_suffix_set:
+- allwinnertech.com
 - analog.com
 - arrow.cn
 - avermedia.cn
 - boe.com
 - boe.com.cn
 - bouffalolab.com
+- cambricon.com
 - cxmt.com
 - eda.cn
 - elecfans.com
@@ -56,6 +58,7 @@ domain_suffix_set:
 - listenai.com
 - maixhub.com
 - moedu.com
+- mthreads.com
 - nanocorechip.com
 - oshwhub.com
 - quecmall.cn
@@ -67,9 +70,11 @@ domain_suffix_set:
 - seeed.com.cn
 - seeedstudio.com.cn
 - sipeed.com
+- southchip.com
 - sz-jlc.com
 - szjlc.cn
 - szlcsc.com
+- t-head.cn
 - thunis.com
 - ti.com.cn
 - tsinghuaic.com
