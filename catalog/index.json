@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "dc60743738b8c81d45b61773d585b97d5c3f428d",
+  "upstream_sha": "ea0125e318b019267a12ff8294689e2f997991a9",
   "categories": {
     "geosite": 2018,
     "geoip": 260,
@@ -1862,7 +1862,7 @@
       },
       "category-ru": {
         "path": "rules/geosite/category-ru.yaml",
-        "count": 1157
+        "count": 1158
       },
       "category-ru@ads": {
         "path": "rules/geosite/category-ru@ads.yaml",
@@ -8276,7 +8276,7 @@
       },
       "cloudfront": {
         "path": "rules/geoip/cloudfront.yaml",
-        "count": 246
+        "count": 247
       },
       "cm": {
         "path": "rules/geoip/cm.yaml",
@@ -8284,7 +8284,7 @@
       },
       "cn": {
         "path": "rules/geoip/cn.yaml",
-        "count": 10012
+        "count": 9662
       },
       "co": {
         "path": "rules/geoip/co.yaml",
@@ -9016,7 +9016,7 @@
       },
       "tor": {
         "path": "rules/geoip/tor.yaml",
-        "count": 659
+        "count": 668
       },
       "tr": {
         "path": "rules/geoip/tr.yaml",
