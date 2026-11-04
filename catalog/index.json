@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "ea0125e318b019267a12ff8294689e2f997991a9",
+  "upstream_sha": "bc735930f7942f1159094650f55012ff7e9644a0",
   "categories": {
     "geosite": 2018,
     "geoip": 260,
@@ -774,7 +774,7 @@
       },
       "beget": {
         "path": "rules/geosite/beget.yaml",
-        "count": 13
+        "count": 14
       },
       "beisen": {
         "path": "rules/geosite/beisen.yaml",
@@ -1346,7 +1346,7 @@
       },
       "category-companies": {
         "path": "rules/geosite/category-companies.yaml",
-        "count": 8659
+        "count": 8660
       },
       "category-companies@!cn": {
         "path": "rules/geosite/category-companies@!cn.yaml",
@@ -1862,7 +1862,7 @@
       },
       "category-ru": {
         "path": "rules/geosite/category-ru.yaml",
-        "count": 1158
+        "count": 1159
       },
       "category-ru@ads": {
         "path": "rules/geosite/category-ru@ads.yaml",
@@ -3298,7 +3298,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27291
+        "count": 27293
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -3322,7 +3322,7 @@
       },
       "gfw": {
         "path": "rules/geosite/gfw.yaml",
-        "count": 4432
+        "count": 4433
       },
       "gfycat": {
         "path": "rules/geosite/gfycat.yaml",
