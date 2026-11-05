@@ -1,0 +1,7 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/projectmoon.yaml
+domain_suffix_set:
+- limbuscompany.global
+- limbuscompanyapi.com
+- limbuscompanycdn.org
+- projectmoon.studio

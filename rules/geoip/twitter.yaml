@@ -2,6 +2,7 @@
 # Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geoip/twitter.yaml
 ip_cidr_set:
 - 103.252.112.0/22
+- 104.244.41.0/24
 - 104.244.42.0/24
 - 104.244.44.0/22
 - 185.45.4.0/22
