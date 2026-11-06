@@ -1,14 +1,14 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "461790d18a151728e834979aad03cb29e256d181",
+  "upstream_sha": "1fc5de325d54d3b77d6b86a1db900c5e48ae1003",
   "categories": {
     "geosite": 2019,
     "geoip": 260,
     "lite/geosite": 24,
     "lite/geoip": 12
   },
-  "asn_count": 82439,
+  "asn_count": 83204,
   "asn_mode": "native-asn-all; published-cidr-snapshots-daily-refresh",
   "rules": {
     "geosite": {
@@ -5510,7 +5510,7 @@
       },
       "oppo": {
         "path": "rules/geosite/oppo.yaml",
-        "count": 45
+        "count": 46
       },
       "oppo@!cn": {
         "path": "rules/geosite/oppo@!cn.yaml",
@@ -9244,19 +9244,19 @@
       },
       "cloudfront": {
         "path": "rules/lite/geoip/cloudfront.yaml",
-        "count": 214
+        "count": 216
       },
       "cn": {
         "path": "rules/lite/geoip/cn.yaml",
-        "count": 7515
+        "count": 7516
       },
       "facebook": {
         "path": "rules/lite/geoip/facebook.yaml",
-        "count": 120
+        "count": 123
       },
       "google": {
         "path": "rules/lite/geoip/google.yaml",
-        "count": 869
+        "count": 910
       },
       "jp": {
         "path": "rules/lite/geoip/jp.yaml",
@@ -9276,7 +9276,7 @@
       },
       "twitter": {
         "path": "rules/lite/geoip/twitter.yaml",
-        "count": 19
+        "count": 20
       }
     }
   },
