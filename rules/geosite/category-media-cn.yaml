@@ -47,6 +47,7 @@ domain_suffix_set:
 - bjd.com.cn
 - bjnews.com.cn
 - bkeconomy.com
+- bowangcaijing.cn
 - btime.com
 - caijing.com.cn
 - cailianpress.com
@@ -56,6 +57,7 @@ domain_suffix_set:
 - ccidcom.com
 - ccn.com.cn
 - ccreports.com.cn
+- cctime.com
 - cctv.cn
 - cctv.com
 - cctv4g.com
@@ -100,9 +102,11 @@ domain_suffix_set:
 - cneo.com.cn
 - cnfol.com
 - cnfolimg.com
+- cnfood.cn
 - cnhubei.com
 - cnmo.com
 - cnms.net.cn
+- cnpharm.com
 - cnr.cn
 - cns.com.cn
 - cnsimg.net
@@ -137,6 +141,7 @@ domain_suffix_set:
 - danjuanfunds.com
 - datasheet5.com
 - dayoo.com
+- dbw.cn
 - dgtle.com
 - dianzhenkeji.com
 - dili360.com
@@ -167,6 +172,7 @@ domain_suffix_set:
 - fromgeek.com
 - geekbang.org
 - geekpark.net
+- gelonghui.com
 - gfan.com
 - gjgbdszt.cn
 - gjgbdszt.com.cn
@@ -185,6 +191,8 @@ domain_suffix_set:
 - gxxw.com
 - gztv.com
 - haowenti.net
+- hebnews.cn
+- hebrb.cn
 - heimadata.com
 - hexin.cn
 - hexin.com.cn
@@ -202,6 +210,7 @@ domain_suffix_set:
 - huxiu.com
 - huxiucdn.com
 - hxnews.com
+- iceo.com.cn
 - icntvcdn.com
 - icpcw.com
 - icswb.com
@@ -233,6 +242,7 @@ domain_suffix_set:
 - it168.com
 - itc.cn
 - ithome.com
+- jcrb.com
 - jfdaily.com
 - jfdaily.com.cn
 - jianyuweb.com
@@ -276,6 +286,7 @@ domain_suffix_set:
 - livechina.cn
 - livechina.com
 - m.aty.sohu.com
+- mcndata.cn
 - miercn.com
 - minapp.com
 - mnw.cn
@@ -287,6 +298,7 @@ domain_suffix_set:
 - nbd.com.cn
 - neweekly.com.cn
 - news.cn
+- newscdn.cn
 - newsimg.cn
 - newssc.org
 - nfpeople.com
@@ -311,6 +323,7 @@ domain_suffix_set:
 - phoenixcenter.cn
 - pingwest.com
 - playcool.com
+- przwt.com
 - pv.hd.sohu.com
 - pv.sohu.com
 - qbitai.com
@@ -333,6 +346,7 @@ domain_suffix_set:
 - scgchc.com
 - sciencenet.cn
 - scol.com.cn
+- scpublic.cn
 - scsjb.cn
 - sctv-tf.com
 - sctv.com
@@ -343,6 +357,7 @@ domain_suffix_set:
 - shedunews.net
 - shobserver.cn
 - shobserver.com
+- shuwen.com
 - snowballsecurities.com
 - snxw.com
 - sohu
@@ -373,6 +388,7 @@ domain_suffix_set:
 - thsi.cn
 - tianjimedia.com
 - tidenews.com.cn
+- tidesight.com
 - tigeek.net.cn
 - time-weekly.com
 - timesmedia.com.cn
@@ -383,8 +399,10 @@ domain_suffix_set:
 - toodaylab.com
 - topnews.cn
 - track.sohu.com
+- traveldaily.cn
 - tvcc.cn
 - tvcc.com.cn
+- upsort.com
 - vbdata.cn
 - vcbeat.top
 - voc.com.cn
@@ -401,6 +419,7 @@ domain_suffix_set:
 - xilu.com
 - xinhuanet.com
 - xinhuaxmt.com
+- xinhuazhiyun.com
 - xinmeng.info
 - xinmin.cn
 - xinminweekly.com.cn
@@ -434,6 +453,7 @@ domain_suffix_set:
 - zgjtb.com
 - zhichanli.com
 - zhiding.cn
+- zhiguf.com
 - zjol.com.cn
 - zjstv.com
 - zol-img.com.cn

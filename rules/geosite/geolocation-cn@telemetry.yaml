@@ -1,6 +1,15 @@
 # Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
 # Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/geolocation-cn@telemetry.yaml
 domain_suffix_set:
+- base.api.my7v.com
 - cloudflareinsights-cn.com
+- dc-conf-o.api.leiniao.com
+- dc-conf-t.api.leiniao.com
+- dc-o.api.leiniao.com
+- dc-t.api.leiniao.com
+- dc-uo.api.leiniao.com
+- dc-ut.api.leiniao.com
 - meitustat.com
+- qms-report-o.api.leiniao.com
+- qms-report-t.api.leiniao.com
 - shuqistat.com

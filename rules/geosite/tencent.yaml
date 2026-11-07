@@ -255,7 +255,6 @@ domain_suffix_set:
 - ihappystudio.com
 - imqq.com
 - imweb.io
-- in.th
 - inte.sogou.com
 - inte.sogoucdn.com
 - intltencentcos.com
@@ -285,6 +284,7 @@ domain_suffix_set:
 - kugouyouth.com
 - kuwo.cn
 - labycore.cn
+- levelinfinite.com
 - log.tbs.qq.com
 - lrts.me
 - lu.sogou.com
@@ -331,6 +331,7 @@ domain_suffix_set:
 - nagcloudcs.com
 - nextstudios.com
 - nextworkshop.net
+- nikke-en.com
 - onexmail.com
 - openapp.run
 - openmidas.com
@@ -569,6 +570,7 @@ domain_suffix_set:
 - tencentdms.com
 - tencenteiam.com
 - tencentelasticsearch.com
+- tencentgames.com
 - tencentid.com
 - tencentidentity.com
 - tencentmiying.com
