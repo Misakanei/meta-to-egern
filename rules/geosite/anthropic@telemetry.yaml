@@ -1,0 +1,5 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/anthropic@telemetry.yaml
+domain_set:
+- http-intake.logs.us5.datadoghq.com
+- o1158394.ingest.us.sentry.io
