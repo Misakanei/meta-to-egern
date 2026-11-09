@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "26cf4440307754d2c2f65cf2f0457c0ae814900f",
+  "upstream_sha": "7861772837d405921b48f911f458546b849b7e66",
   "categories": {
     "geosite": 2022,
     "geoip": 260,
