@@ -1,9 +1,9 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "7861772837d405921b48f911f458546b849b7e66",
+  "upstream_sha": "e731d6be701afb91548fe0b76380d5022f7f4c02",
   "categories": {
-    "geosite": 2022,
+    "geosite": 2023,
     "geoip": 260,
     "lite/geosite": 24,
     "lite/geoip": 12
@@ -1234,7 +1234,7 @@
       },
       "category-ai-cn": {
         "path": "rules/geosite/category-ai-cn.yaml",
-        "count": 128
+        "count": 129
       },
       "category-ai-ru": {
         "path": "rules/geosite/category-ai-ru.yaml",
@@ -1402,7 +1402,7 @@
       },
       "category-dev": {
         "path": "rules/geosite/category-dev.yaml",
-        "count": 690
+        "count": 692
       },
       "category-dev@ads": {
         "path": "rules/geosite/category-dev@ads.yaml",
@@ -1574,7 +1574,7 @@
       },
       "category-forums": {
         "path": "rules/geosite/category-forums.yaml",
-        "count": 111
+        "count": 114
       },
       "category-forums@ads": {
         "path": "rules/geosite/category-forums@ads.yaml",
@@ -1866,7 +1866,7 @@
       },
       "category-ru": {
         "path": "rules/geosite/category-ru.yaml",
-        "count": 1160
+        "count": 1161
       },
       "category-ru@ads": {
         "path": "rules/geosite/category-ru@ads.yaml",
@@ -1942,7 +1942,7 @@
       },
       "category-speedtest": {
         "path": "rules/geosite/category-speedtest.yaml",
-        "count": 327
+        "count": 328
       },
       "category-speedtest@!cn": {
         "path": "rules/geosite/category-speedtest@!cn.yaml",
@@ -3306,7 +3306,7 @@
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
-        "count": 5436
+        "count": 5437
       },
       "geolocation-cn@cn": {
         "path": "rules/geosite/geolocation-cn@cn.yaml",
@@ -3526,6 +3526,10 @@
       },
       "gracg": {
         "path": "rules/geosite/gracg.yaml",
+        "count": 2
+      },
+      "grafanalabs": {
+        "path": "rules/geosite/grafanalabs.yaml",
         "count": 2
       },
       "grapheneos": {
