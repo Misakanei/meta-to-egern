@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "e731d6be701afb91548fe0b76380d5022f7f4c02",
+  "upstream_sha": "458e716abd80ff8c6aee2b7d15c4f94b20e9d279",
   "categories": {
     "geosite": 2023,
     "geoip": 260,
@@ -3302,7 +3302,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27302
+        "count": 27307
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
