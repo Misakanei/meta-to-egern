@@ -1,14 +1,14 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "a08d80c786668262381318e6c11cb13527a525e3",
+  "upstream_sha": "2963a49408bbc37f2c2ffa6e8329fe11076a816b",
   "categories": {
     "geosite": 2023,
     "geoip": 260,
     "lite/geosite": 24,
     "lite/geoip": 12
   },
-  "asn_count": 83204,
+  "asn_count": 83349,
   "asn_mode": "native-asn-all; published-cidr-snapshots-daily-refresh",
   "rules": {
     "geosite": {
@@ -1246,7 +1246,7 @@
       },
       "category-anticensorship": {
         "path": "rules/geosite/category-anticensorship.yaml",
-        "count": 126
+        "count": 127
       },
       "category-antivirus": {
         "path": "rules/geosite/category-antivirus.yaml",
@@ -3542,7 +3542,7 @@
       },
       "greatfire": {
         "path": "rules/geosite/greatfire.yaml",
-        "count": 11
+        "count": 12
       },
       "gree": {
         "path": "rules/geosite/gree.yaml",
@@ -9256,7 +9256,7 @@
       },
       "cloudflare": {
         "path": "rules/lite/geoip/cloudflare.yaml",
-        "count": 2875
+        "count": 2883
       },
       "cloudfront": {
         "path": "rules/lite/geoip/cloudfront.yaml",
@@ -9264,23 +9264,23 @@
       },
       "cn": {
         "path": "rules/lite/geoip/cn.yaml",
-        "count": 7516
+        "count": 7518
       },
       "facebook": {
         "path": "rules/lite/geoip/facebook.yaml",
-        "count": 123
+        "count": 122
       },
       "google": {
         "path": "rules/lite/geoip/google.yaml",
-        "count": 910
+        "count": 892
       },
       "jp": {
         "path": "rules/lite/geoip/jp.yaml",
-        "count": 3797
+        "count": 3796
       },
       "netflix": {
         "path": "rules/lite/geoip/netflix.yaml",
-        "count": 24
+        "count": 23
       },
       "private": {
         "path": "rules/lite/geoip/private.yaml",
