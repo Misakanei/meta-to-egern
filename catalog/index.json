@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "2963a49408bbc37f2c2ffa6e8329fe11076a816b",
+  "upstream_sha": "1127bb69cd31beba3d8fd851a9dba92e66eead42",
   "categories": {
     "geosite": 2023,
     "geoip": 260,
@@ -3302,7 +3302,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27307
+        "count": 27308
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -3326,7 +3326,7 @@
       },
       "gfw": {
         "path": "rules/geosite/gfw.yaml",
-        "count": 4433
+        "count": 4434
       },
       "gfycat": {
         "path": "rules/geosite/gfycat.yaml",
