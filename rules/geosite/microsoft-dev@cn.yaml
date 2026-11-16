@@ -2,6 +2,7 @@
 # Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/microsoft-dev@cn.yaml
 domain_set:
 - download.visualstudio.microsoft.com
+- vscode.download.prss.microsoft.com
 domain_suffix_set:
 - microsoftreactor.cn
 - microsoftreactor.com.cn

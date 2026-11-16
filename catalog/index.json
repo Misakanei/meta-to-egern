@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "f181fff77f5f243f69bfc12b45e0fa10bed899fc",
+  "upstream_sha": "c50286e52b8f6497af083871747d4b49a4bb77a2",
   "categories": {
     "geosite": 2023,
     "geoip": 260,
@@ -554,7 +554,7 @@
       },
       "apple": {
         "path": "rules/geosite/apple.yaml",
-        "count": 1792
+        "count": 1796
       },
       "apple@ads": {
         "path": "rules/geosite/apple@ads.yaml",
@@ -562,7 +562,7 @@
       },
       "apple@cn": {
         "path": "rules/geosite/apple@cn.yaml",
-        "count": 298
+        "count": 302
       },
       "appledaily": {
         "path": "rules/geosite/appledaily.yaml",
@@ -1246,7 +1246,7 @@
       },
       "category-anticensorship": {
         "path": "rules/geosite/category-anticensorship.yaml",
-        "count": 127
+        "count": 128
       },
       "category-antivirus": {
         "path": "rules/geosite/category-antivirus.yaml",
@@ -1278,7 +1278,7 @@
       },
       "category-bank-ru": {
         "path": "rules/geosite/category-bank-ru.yaml",
-        "count": 356
+        "count": 358
       },
       "category-bank-ru@ads": {
         "path": "rules/geosite/category-bank-ru@ads.yaml",
@@ -1350,7 +1350,7 @@
       },
       "category-companies": {
         "path": "rules/geosite/category-companies.yaml",
-        "count": 8662
+        "count": 8670
       },
       "category-companies@!cn": {
         "path": "rules/geosite/category-companies@!cn.yaml",
@@ -1362,7 +1362,7 @@
       },
       "category-companies@cn": {
         "path": "rules/geosite/category-companies@cn.yaml",
-        "count": 839
+        "count": 843
       },
       "category-companies@telemetry": {
         "path": "rules/geosite/category-companies@telemetry.yaml",
@@ -1378,7 +1378,7 @@
       },
       "category-cryptocurrency": {
         "path": "rules/geosite/category-cryptocurrency.yaml",
-        "count": 240
+        "count": 241
       },
       "category-cryptocurrency@cn": {
         "path": "rules/geosite/category-cryptocurrency@cn.yaml",
@@ -1402,7 +1402,7 @@
       },
       "category-dev": {
         "path": "rules/geosite/category-dev.yaml",
-        "count": 692
+        "count": 696
       },
       "category-dev@ads": {
         "path": "rules/geosite/category-dev@ads.yaml",
@@ -1410,7 +1410,7 @@
       },
       "category-dev@cn": {
         "path": "rules/geosite/category-dev@cn.yaml",
-        "count": 24
+        "count": 25
       },
       "category-dev@telemetry": {
         "path": "rules/geosite/category-dev@telemetry.yaml",
@@ -1510,7 +1510,7 @@
       },
       "category-entertainment": {
         "path": "rules/geosite/category-entertainment.yaml",
-        "count": 2160
+        "count": 2162
       },
       "category-entertainment@!cn": {
         "path": "rules/geosite/category-entertainment@!cn.yaml",
@@ -1522,7 +1522,7 @@
       },
       "category-entertainment@cn": {
         "path": "rules/geosite/category-entertainment@cn.yaml",
-        "count": 101
+        "count": 103
       },
       "category-entertainment@telemetry": {
         "path": "rules/geosite/category-entertainment@telemetry.yaml",
@@ -1530,7 +1530,7 @@
       },
       "category-finance": {
         "path": "rules/geosite/category-finance.yaml",
-        "count": 661
+        "count": 663
       },
       "category-finance@ads": {
         "path": "rules/geosite/category-finance@ads.yaml",
@@ -3302,7 +3302,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27308
+        "count": 27313
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -4102,11 +4102,11 @@
       },
       "itunes": {
         "path": "rules/geosite/itunes.yaml",
-        "count": 99
+        "count": 101
       },
       "itunes@cn": {
         "path": "rules/geosite/itunes@cn.yaml",
-        "count": 51
+        "count": 53
       },
       "ixbt": {
         "path": "rules/geosite/ixbt.yaml",
@@ -4846,11 +4846,11 @@
       },
       "microsoft-dev": {
         "path": "rules/geosite/microsoft-dev.yaml",
-        "count": 76
+        "count": 80
       },
       "microsoft-dev@cn": {
         "path": "rules/geosite/microsoft-dev@cn.yaml",
-        "count": 4
+        "count": 5
       },
       "microsoft-dev@telemetry": {
         "path": "rules/geosite/microsoft-dev@telemetry.yaml",
@@ -4862,7 +4862,7 @@
       },
       "microsoft": {
         "path": "rules/geosite/microsoft.yaml",
-        "count": 754
+        "count": 757
       },
       "microsoft@ads": {
         "path": "rules/geosite/microsoft@ads.yaml",
@@ -6062,7 +6062,7 @@
       },
       "remnawave": {
         "path": "rules/geosite/remnawave.yaml",
-        "count": 4
+        "count": 5
       },
       "renren": {
         "path": "rules/geosite/renren.yaml",
@@ -7870,7 +7870,7 @@
       },
       "yandex": {
         "path": "rules/geosite/yandex.yaml",
-        "count": 155
+        "count": 156
       },
       "yandex@ads": {
         "path": "rules/geosite/yandex@ads.yaml",

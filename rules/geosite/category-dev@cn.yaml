@@ -16,6 +16,7 @@ domain_set:
 - download.visualstudio.microsoft.com
 - firebase-settings.crashlytics.com
 - update.crashlytics.com
+- vscode.download.prss.microsoft.com
 domain_suffix_set:
 - cdn.jetbrains.com
 - jetbrains.com.cn
