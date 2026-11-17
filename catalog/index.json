@@ -1,9 +1,9 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "c50286e52b8f6497af083871747d4b49a4bb77a2",
+  "upstream_sha": "1916b151c3661fc74f709ac69c271ff9ae912027",
   "categories": {
-    "geosite": 2023,
+    "geosite": 2025,
     "geoip": 260,
     "lite/geosite": 24,
     "lite/geoip": 12
@@ -1510,7 +1510,7 @@
       },
       "category-entertainment": {
         "path": "rules/geosite/category-entertainment.yaml",
-        "count": 2162
+        "count": 2163
       },
       "category-entertainment@!cn": {
         "path": "rules/geosite/category-entertainment@!cn.yaml",
@@ -1598,7 +1598,7 @@
       },
       "category-games-!cn": {
         "path": "rules/geosite/category-games-!cn.yaml",
-        "count": 881
+        "count": 882
       },
       "category-games-!cn@ads": {
         "path": "rules/geosite/category-games-!cn@ads.yaml",
@@ -1630,7 +1630,7 @@
       },
       "category-games": {
         "path": "rules/geosite/category-games.yaml",
-        "count": 1059
+        "count": 1060
       },
       "category-games@ads": {
         "path": "rules/geosite/category-games@ads.yaml",
@@ -2466,7 +2466,7 @@
       },
       "cygames": {
         "path": "rules/geosite/cygames.yaml",
-        "count": 5
+        "count": 6
       },
       "cylink": {
         "path": "rules/geosite/cylink.yaml",
@@ -3302,7 +3302,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27313
+        "count": 27315
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -3875,6 +3875,14 @@
       "huya": {
         "path": "rules/geosite/huya.yaml",
         "count": 2
+      },
+      "hypergryph": {
+        "path": "rules/geosite/hypergryph.yaml",
+        "count": 18
+      },
+      "hypergryph@!cn": {
+        "path": "rules/geosite/hypergryph@!cn.yaml",
+        "count": 6
       },
       "ibkr": {
         "path": "rules/geosite/ibkr.yaml",
