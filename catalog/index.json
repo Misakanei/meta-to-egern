@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "1916b151c3661fc74f709ac69c271ff9ae912027",
+  "upstream_sha": "39ef714731b5523b471d6868f8e3e6e83d915611",
   "categories": {
     "geosite": 2025,
     "geoip": 260,
@@ -1202,7 +1202,7 @@
       },
       "category-ai-!cn": {
         "path": "rules/geosite/category-ai-!cn.yaml",
-        "count": 217
+        "count": 218
       },
       "category-ai-!cn@!cn": {
         "path": "rules/geosite/category-ai-!cn@!cn.yaml",
@@ -1218,7 +1218,7 @@
       },
       "category-ai-chat-!cn": {
         "path": "rules/geosite/category-ai-chat-!cn.yaml",
-        "count": 217
+        "count": 218
       },
       "category-ai-chat-!cn@!cn": {
         "path": "rules/geosite/category-ai-chat-!cn@!cn.yaml",
@@ -1350,7 +1350,7 @@
       },
       "category-companies": {
         "path": "rules/geosite/category-companies.yaml",
-        "count": 8670
+        "count": 8669
       },
       "category-companies@!cn": {
         "path": "rules/geosite/category-companies@!cn.yaml",
@@ -1866,7 +1866,7 @@
       },
       "category-ru": {
         "path": "rules/geosite/category-ru.yaml",
-        "count": 1162
+        "count": 1161
       },
       "category-ru@ads": {
         "path": "rules/geosite/category-ru@ads.yaml",
@@ -2878,7 +2878,7 @@
       },
       "elevenlabs": {
         "path": "rules/geosite/elevenlabs.yaml",
-        "count": 2
+        "count": 3
       },
       "elsevier": {
         "path": "rules/geosite/elsevier.yaml",
@@ -7878,7 +7878,7 @@
       },
       "yandex": {
         "path": "rules/geosite/yandex.yaml",
-        "count": 156
+        "count": 155
       },
       "yandex@ads": {
         "path": "rules/geosite/yandex@ads.yaml",
