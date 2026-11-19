@@ -1,6 +1,12 @@
 # Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
 # Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/baishancloud.yaml
 domain_suffix_set:
+- baishan.com
+- baishancdnx.cn
+- baishancloud.com
 - bsclink.cn
 - qingcdn.com
+- saxyit.com
+- trpcdn.com
 - trpcdn.net
+- yundun.com

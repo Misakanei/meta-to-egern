@@ -145,6 +145,8 @@ domain_suffix_set:
 - 1ting.com
 - 1tyy.cn
 - 1xhh.cn
+- 1y.com
+- 1ycdn.com
 - 1zhe.com
 - 20130123.com
 - 21cnjy.com
@@ -350,6 +352,7 @@ domain_suffix_set:
 - 58pic.com
 - 58uxd.com
 - 58v5.cn
+- 58wos.com.cn
 - 58xinghuo.cn
 - 58xinghuo.com
 - 58xueche.com
@@ -523,6 +526,7 @@ domain_suffix_set:
 - aiyunxiao.com
 - aizgtc.com
 - aizhan.com
+- ajkimg.com
 - ajzq.com
 - akikocorp.cn
 - akspeedy.com
@@ -681,6 +685,9 @@ domain_suffix_set:
 - baikemy.com
 - baimiao.tech
 - baimiaoapp.com
+- baishan.com
+- baishancdnx.cn
+- baishancloud.com
 - baishinetwork.com
 - baixing.com
 - baixing.net
@@ -3038,6 +3045,7 @@ domain_suffix_set:
 - leelen.com
 - leetcode-cn.com
 - leetcode.cn
+- lefile.cn
 - lehuipay.com
 - leigod.cn
 - leigod.com
@@ -3059,6 +3067,8 @@ domain_suffix_set:
 - lenovocust.cn
 - lenovoeservice.com
 - lenovofile.com
+- lenovofoundation.cn
+- lenovofuturecenter.com
 - lenovogame.com
 - lenovoimage.cn
 - lenovoimage.com
@@ -3162,13 +3172,10 @@ domain_suffix_set:
 - ls66.cn
 - lsbj365.com
 - lsplayer.com
-- lu.com
 - lubiao.wiki
 - luckincoffeecdn.com
 - luckyair.net
 - ludashi.com
-- lufax.com
-- lufaxcdn.com
 - lufunds.com
 - luhua.cn
 - lulian.cn
@@ -3837,6 +3844,7 @@ domain_suffix_set:
 - qms-report-t.api.leiniao.com
 - qnsdk.com
 - qnssl.com
+- qpmcn.com
 - qq.design
 - qq163.com
 - qq163.net
@@ -3956,6 +3964,7 @@ domain_suffix_set:
 - saolife.com
 - saraba1st.com
 - sast.fun
+- saxyit.com
 - sbsjk.com
 - sc96655.com
 - scbaijia.com
@@ -4463,6 +4472,7 @@ domain_suffix_set:
 - travelskymobile.cn
 - tritoninfo.net
 - trjcn.com
+- trpcdn.com
 - trpcdn.net
 - trunktech.com
 - trustasia.cn
@@ -5297,6 +5307,8 @@ domain_suffix_set:
 - zhanzhang.net
 - zhaodanji.com
 - zhaokao.net
+- zhaoliangji.com
+- zhaoliangjipc.com
 - zhaomi.cn
 - zhaomishijie.com
 - zhaopin.cn
