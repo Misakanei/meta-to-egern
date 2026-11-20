@@ -1,14 +1,14 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "21a0aeef70681851c15d4741381dda538c9e8700",
+  "upstream_sha": "0d0d829978761194d931a121d9f4e7d82446e6f8",
   "categories": {
     "geosite": 2025,
     "geoip": 260,
     "lite/geosite": 24,
     "lite/geoip": 12
   },
-  "asn_count": 83349,
+  "asn_count": 83483,
   "asn_mode": "native-asn-all; published-cidr-snapshots-daily-refresh",
   "rules": {
     "geosite": {
@@ -9264,31 +9264,31 @@
       },
       "cloudflare": {
         "path": "rules/lite/geoip/cloudflare.yaml",
-        "count": 2883
+        "count": 2926
       },
       "cloudfront": {
         "path": "rules/lite/geoip/cloudfront.yaml",
-        "count": 216
+        "count": 217
       },
       "cn": {
         "path": "rules/lite/geoip/cn.yaml",
-        "count": 7518
+        "count": 7520
       },
       "facebook": {
         "path": "rules/lite/geoip/facebook.yaml",
-        "count": 122
+        "count": 123
       },
       "google": {
         "path": "rules/lite/geoip/google.yaml",
-        "count": 892
+        "count": 897
       },
       "jp": {
         "path": "rules/lite/geoip/jp.yaml",
-        "count": 3796
+        "count": 3798
       },
       "netflix": {
         "path": "rules/lite/geoip/netflix.yaml",
-        "count": 23
+        "count": 24
       },
       "private": {
         "path": "rules/lite/geoip/private.yaml",
