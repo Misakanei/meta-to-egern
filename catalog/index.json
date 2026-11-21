@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "0d0d829978761194d931a121d9f4e7d82446e6f8",
+  "upstream_sha": "f7119625e8e225d0e5a06b137465e0c10cb906f8",
   "categories": {
     "geosite": 2025,
     "geoip": 260,
@@ -554,7 +554,7 @@
       },
       "apple": {
         "path": "rules/geosite/apple.yaml",
-        "count": 1796
+        "count": 1666
       },
       "apple@ads": {
         "path": "rules/geosite/apple@ads.yaml",
@@ -770,7 +770,7 @@
       },
       "beats": {
         "path": "rules/geosite/beats.yaml",
-        "count": 716
+        "count": 588
       },
       "beats@cn": {
         "path": "rules/geosite/beats@cn.yaml",
@@ -1258,7 +1258,7 @@
       },
       "category-automobile-cn": {
         "path": "rules/geosite/category-automobile-cn.yaml",
-        "count": 51
+        "count": 52
       },
       "category-bank-cn": {
         "path": "rules/geosite/category-bank-cn.yaml",
@@ -1350,7 +1350,7 @@
       },
       "category-companies": {
         "path": "rules/geosite/category-companies.yaml",
-        "count": 8669
+        "count": 8539
       },
       "category-companies@!cn": {
         "path": "rules/geosite/category-companies@!cn.yaml",
@@ -3302,11 +3302,11 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27315
+        "count": 27204
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
-        "count": 5449
+        "count": 5453
       },
       "geolocation-cn@cn": {
         "path": "rules/geosite/geolocation-cn@cn.yaml",
@@ -3326,7 +3326,7 @@
       },
       "gfw": {
         "path": "rules/geosite/gfw.yaml",
-        "count": 4434
+        "count": 4462
       },
       "gfycat": {
         "path": "rules/geosite/gfycat.yaml",
