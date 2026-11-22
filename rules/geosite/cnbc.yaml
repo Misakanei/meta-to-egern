@@ -2,6 +2,5 @@
 # Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/cnbc.yaml
 domain_suffix_set:
 - cnbc.com
+- cnbccouncils.com
 - cnbcfm.com
-- nbcudigitaladops.com
-- nbcuni.com

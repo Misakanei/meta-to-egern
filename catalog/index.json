@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "f7119625e8e225d0e5a06b137465e0c10cb906f8",
+  "upstream_sha": "ca7d9d641cf31a25d465861d8af0352e6721b6e0",
   "categories": {
     "geosite": 2025,
     "geoip": 260,
@@ -1350,7 +1350,7 @@
       },
       "category-companies": {
         "path": "rules/geosite/category-companies.yaml",
-        "count": 8539
+        "count": 8541
       },
       "category-companies@!cn": {
         "path": "rules/geosite/category-companies@!cn.yaml",
@@ -1402,7 +1402,7 @@
       },
       "category-dev": {
         "path": "rules/geosite/category-dev.yaml",
-        "count": 696
+        "count": 698
       },
       "category-dev@ads": {
         "path": "rules/geosite/category-dev@ads.yaml",
@@ -1438,7 +1438,7 @@
       },
       "category-ecommerce": {
         "path": "rules/geosite/category-ecommerce.yaml",
-        "count": 1329
+        "count": 1330
       },
       "category-ecommerce@ads": {
         "path": "rules/geosite/category-ecommerce@ads.yaml",
@@ -1722,7 +1722,7 @@
       },
       "category-media": {
         "path": "rules/geosite/category-media.yaml",
-        "count": 1580
+        "count": 1598
       },
       "category-media@cn": {
         "path": "rules/geosite/category-media@cn.yaml",
@@ -2286,7 +2286,7 @@
       },
       "cnbc": {
         "path": "rules/geosite/cnbc.yaml",
-        "count": 4
+        "count": 3
       },
       "cnbeta": {
         "path": "rules/geosite/cnbeta.yaml",
@@ -2666,11 +2666,11 @@
       },
       "dmm-porn": {
         "path": "rules/geosite/dmm-porn.yaml",
-        "count": 2
+        "count": 3
       },
       "dmm": {
         "path": "rules/geosite/dmm.yaml",
-        "count": 17
+        "count": 18
       },
       "dmm@ads": {
         "path": "rules/geosite/dmm@ads.yaml",
@@ -3302,7 +3302,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27204
+        "count": 27227
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -3710,7 +3710,7 @@
       },
       "hkt": {
         "path": "rules/geosite/hkt.yaml",
-        "count": 12
+        "count": 13
       },
       "hku": {
         "path": "rules/geosite/hku.yaml",
@@ -5174,7 +5174,7 @@
       },
       "nbcuniversal": {
         "path": "rules/geosite/nbcuniversal.yaml",
-        "count": 17
+        "count": 33
       },
       "neowin": {
         "path": "rules/geosite/neowin.yaml",
@@ -5646,7 +5646,7 @@
       },
       "pccw": {
         "path": "rules/geosite/pccw.yaml",
-        "count": 28
+        "count": 30
       },
       "pchome": {
         "path": "rules/geosite/pchome.yaml",
@@ -5770,7 +5770,7 @@
       },
       "playboy": {
         "path": "rules/geosite/playboy.yaml",
-        "count": 2
+        "count": 3
       },
       "playcover": {
         "path": "rules/geosite/playcover.yaml",
