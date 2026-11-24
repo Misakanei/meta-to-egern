@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "13c258bce343dfc81d5600e535a59588386ef4b9",
+  "upstream_sha": "ce616601064422e7acfe75ea201549dc7372becf",
   "categories": {
     "geosite": 2025,
     "geoip": 260,
@@ -350,7 +350,7 @@
       },
       "alphabet": {
         "path": "rules/geosite/alphabet.yaml",
-        "count": 1088
+        "count": 1089
       },
       "alphabet@!cn": {
         "path": "rules/geosite/alphabet@!cn.yaml",
@@ -1202,7 +1202,7 @@
       },
       "category-ai-!cn": {
         "path": "rules/geosite/category-ai-!cn.yaml",
-        "count": 218
+        "count": 219
       },
       "category-ai-!cn@!cn": {
         "path": "rules/geosite/category-ai-!cn@!cn.yaml",
@@ -1218,7 +1218,7 @@
       },
       "category-ai-chat-!cn": {
         "path": "rules/geosite/category-ai-chat-!cn.yaml",
-        "count": 218
+        "count": 219
       },
       "category-ai-chat-!cn@!cn": {
         "path": "rules/geosite/category-ai-chat-!cn@!cn.yaml",
@@ -1350,7 +1350,7 @@
       },
       "category-companies": {
         "path": "rules/geosite/category-companies.yaml",
-        "count": 8541
+        "count": 8542
       },
       "category-companies@!cn": {
         "path": "rules/geosite/category-companies@!cn.yaml",
@@ -1490,7 +1490,7 @@
       },
       "category-entertainment-cn": {
         "path": "rules/geosite/category-entertainment-cn.yaml",
-        "count": 713
+        "count": 717
       },
       "category-entertainment-cn@ads": {
         "path": "rules/geosite/category-entertainment-cn@ads.yaml",
@@ -1614,7 +1614,7 @@
       },
       "category-games-cn": {
         "path": "rules/geosite/category-games-cn.yaml",
-        "count": 180
+        "count": 184
       },
       "category-games-cn@ads": {
         "path": "rules/geosite/category-games-cn@ads.yaml",
@@ -1630,7 +1630,7 @@
       },
       "category-games": {
         "path": "rules/geosite/category-games.yaml",
-        "count": 1062
+        "count": 1066
       },
       "category-games@ads": {
         "path": "rules/geosite/category-games@ads.yaml",
@@ -3302,11 +3302,11 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27227
+        "count": 27228
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
-        "count": 5454
+        "count": 5458
       },
       "geolocation-cn@cn": {
         "path": "rules/geosite/geolocation-cn@cn.yaml",
@@ -3458,11 +3458,11 @@
       },
       "google-deepmind": {
         "path": "rules/geosite/google-deepmind.yaml",
-        "count": 49
+        "count": 50
       },
       "google-gemini": {
         "path": "rules/geosite/google-gemini.yaml",
-        "count": 49
+        "count": 50
       },
       "google-play": {
         "path": "rules/geosite/google-play.yaml",
@@ -3494,7 +3494,7 @@
       },
       "google": {
         "path": "rules/geosite/google.yaml",
-        "count": 1078
+        "count": 1079
       },
       "google@!cn": {
         "path": "rules/geosite/google@!cn.yaml",
