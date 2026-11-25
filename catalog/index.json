@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "ce616601064422e7acfe75ea201549dc7372becf",
+  "upstream_sha": "ebdf916c315bb0411a7ce323a7a6c002e15146a7",
   "categories": {
     "geosite": 2025,
     "geoip": 260,
@@ -1314,7 +1314,7 @@
       },
       "category-cdn-!cn": {
         "path": "rules/geosite/category-cdn-!cn.yaml",
-        "count": 195
+        "count": 197
       },
       "category-cdn-!cn@cn": {
         "path": "rules/geosite/category-cdn-!cn@cn.yaml",
@@ -1402,7 +1402,7 @@
       },
       "category-dev": {
         "path": "rules/geosite/category-dev.yaml",
-        "count": 698
+        "count": 701
       },
       "category-dev@ads": {
         "path": "rules/geosite/category-dev@ads.yaml",
@@ -2510,7 +2510,7 @@
       },
       "debian": {
         "path": "rules/geosite/debian.yaml",
-        "count": 2
+        "count": 3
       },
       "decryptipastore": {
         "path": "rules/geosite/decryptipastore.yaml",
@@ -3054,7 +3054,7 @@
       },
       "fastly": {
         "path": "rules/geosite/fastly.yaml",
-        "count": 7
+        "count": 9
       },
       "faststone": {
         "path": "rules/geosite/faststone.yaml",
@@ -3302,7 +3302,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27228
+        "count": 27233
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -5318,7 +5318,7 @@
       },
       "nixos": {
         "path": "rules/geosite/nixos.yaml",
-        "count": 12
+        "count": 13
       },
       "nodejs": {
         "path": "rules/geosite/nodejs.yaml",
@@ -7298,7 +7298,7 @@
       },
       "unity": {
         "path": "rules/geosite/unity.yaml",
-        "count": 10
+        "count": 11
       },
       "unity@ads": {
         "path": "rules/geosite/unity@ads.yaml",

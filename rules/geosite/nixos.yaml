@@ -4,6 +4,7 @@ domain_set:
 - nix-community.github.io
 domain_suffix_set:
 - builtwithnix.org
+- cachix.org
 - mynixos.com
 - nix-community.org
 - nix.dev
