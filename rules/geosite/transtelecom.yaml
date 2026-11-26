@@ -1,0 +1,11 @@
+# Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
+# Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/transtelecom.yaml
+domain_suffix_set:
+- baikal-ttk.ru
+- kttk.ru
+- myttk.ru
+- sakhttk.ru
+- ttc-net.ru
+- ttk.ru
+- ttkdv.ru
+- zsttk.net

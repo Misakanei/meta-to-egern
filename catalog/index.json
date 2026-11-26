@@ -1,9 +1,9 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "ebdf916c315bb0411a7ce323a7a6c002e15146a7",
+  "upstream_sha": "69f94483c308940c277035c66eb78ff529efd977",
   "categories": {
-    "geosite": 2025,
+    "geosite": 2026,
     "geoip": 260,
     "lite/geosite": 24,
     "lite/geoip": 12
@@ -1238,7 +1238,7 @@
       },
       "category-ai-ru": {
         "path": "rules/geosite/category-ai-ru.yaml",
-        "count": 12
+        "count": 13
       },
       "category-android-app-download": {
         "path": "rules/geosite/category-android-app-download.yaml",
@@ -1350,7 +1350,7 @@
       },
       "category-companies": {
         "path": "rules/geosite/category-companies.yaml",
-        "count": 8542
+        "count": 8553
       },
       "category-companies@!cn": {
         "path": "rules/geosite/category-companies@!cn.yaml",
@@ -1650,7 +1650,7 @@
       },
       "category-gov-ru": {
         "path": "rules/geosite/category-gov-ru.yaml",
-        "count": 145
+        "count": 409
       },
       "category-hospital-cn": {
         "path": "rules/geosite/category-hospital-cn.yaml",
@@ -1866,7 +1866,7 @@
       },
       "category-ru": {
         "path": "rules/geosite/category-ru.yaml",
-        "count": 1161
+        "count": 1179
       },
       "category-ru@ads": {
         "path": "rules/geosite/category-ru@ads.yaml",
@@ -3302,7 +3302,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27233
+        "count": 27244
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -4802,7 +4802,7 @@
       },
       "megafon": {
         "path": "rules/geosite/megafon.yaml",
-        "count": 12
+        "count": 17
       },
       "meipian": {
         "path": "rules/geosite/meipian.yaml",
@@ -5090,7 +5090,7 @@
       },
       "mts-ru": {
         "path": "rules/geosite/mts-ru.yaml",
-        "count": 13
+        "count": 15
       },
       "mts-ru@ads": {
         "path": "rules/geosite/mts-ru@ads.yaml",
@@ -6114,7 +6114,7 @@
       },
       "rostelecom": {
         "path": "rules/geosite/rostelecom.yaml",
-        "count": 9
+        "count": 13
       },
       "rostelecom@ads": {
         "path": "rules/geosite/rostelecom@ads.yaml",
@@ -7136,6 +7136,10 @@
         "path": "rules/geosite/translatewiki.yaml",
         "count": 2
       },
+      "transtelecom": {
+        "path": "rules/geosite/transtelecom.yaml",
+        "count": 8
+      },
       "trello": {
         "path": "rules/geosite/trello.yaml",
         "count": 2
@@ -8116,191 +8120,191 @@
     "geoip": {
       "ad": {
         "path": "rules/geoip/ad.yaml",
-        "count": 385
+        "count": 394
       },
       "ae": {
         "path": "rules/geoip/ae.yaml",
-        "count": 6479
+        "count": 6466
       },
       "af": {
         "path": "rules/geoip/af.yaml",
-        "count": 718
+        "count": 729
       },
       "ag": {
         "path": "rules/geoip/ag.yaml",
-        "count": 270
+        "count": 286
       },
       "ai": {
         "path": "rules/geoip/ai.yaml",
-        "count": 150
+        "count": 149
       },
       "al": {
         "path": "rules/geoip/al.yaml",
-        "count": 1441
+        "count": 1278
       },
       "am": {
         "path": "rules/geoip/am.yaml",
-        "count": 802
+        "count": 811
       },
       "ao": {
         "path": "rules/geoip/ao.yaml",
-        "count": 592
+        "count": 605
       },
       "aq": {
         "path": "rules/geoip/aq.yaml",
-        "count": 811
+        "count": 808
       },
       "ar": {
         "path": "rules/geoip/ar.yaml",
-        "count": 5689
+        "count": 6018
       },
       "as": {
         "path": "rules/geoip/as.yaml",
-        "count": 441
+        "count": 428
       },
       "at": {
         "path": "rules/geoip/at.yaml",
-        "count": 7078
+        "count": 7004
       },
       "au": {
         "path": "rules/geoip/au.yaml",
-        "count": 18036
+        "count": 18069
       },
       "aw": {
         "path": "rules/geoip/aw.yaml",
-        "count": 164
+        "count": 165
       },
       "ax": {
         "path": "rules/geoip/ax.yaml",
-        "count": 173
+        "count": 172
       },
       "az": {
         "path": "rules/geoip/az.yaml",
-        "count": 673
+        "count": 681
       },
       "ba": {
         "path": "rules/geoip/ba.yaml",
-        "count": 463
+        "count": 473
       },
       "bb": {
         "path": "rules/geoip/bb.yaml",
-        "count": 280
+        "count": 294
       },
       "bd": {
         "path": "rules/geoip/bd.yaml",
-        "count": 5059
+        "count": 5088
       },
       "be": {
         "path": "rules/geoip/be.yaml",
-        "count": 7368
+        "count": 7376
       },
       "bf": {
         "path": "rules/geoip/bf.yaml",
-        "count": 252
+        "count": 259
       },
       "bg": {
         "path": "rules/geoip/bg.yaml",
-        "count": 3249
+        "count": 3293
       },
       "bh": {
         "path": "rules/geoip/bh.yaml",
-        "count": 455
+        "count": 468
       },
       "bi": {
         "path": "rules/geoip/bi.yaml",
-        "count": 129
+        "count": 140
       },
       "bj": {
         "path": "rules/geoip/bj.yaml",
-        "count": 188
+        "count": 197
       },
       "bl": {
         "path": "rules/geoip/bl.yaml",
-        "count": 114
+        "count": 113
       },
       "bm": {
         "path": "rules/geoip/bm.yaml",
-        "count": 438
+        "count": 437
       },
       "bn": {
         "path": "rules/geoip/bn.yaml",
-        "count": 197
+        "count": 209
       },
       "bo": {
         "path": "rules/geoip/bo.yaml",
-        "count": 584
+        "count": 595
       },
       "bq": {
         "path": "rules/geoip/bq.yaml",
-        "count": 119
+        "count": 118
       },
       "br": {
         "path": "rules/geoip/br.yaml",
-        "count": 24055
+        "count": 24022
       },
       "bs": {
         "path": "rules/geoip/bs.yaml",
-        "count": 284
+        "count": 298
       },
       "bt": {
         "path": "rules/geoip/bt.yaml",
-        "count": 249
+        "count": 259
       },
       "bv": {
         "path": "rules/geoip/bv.yaml",
-        "count": 37
+        "count": 35
       },
       "bw": {
         "path": "rules/geoip/bw.yaml",
-        "count": 236
+        "count": 249
       },
       "by": {
         "path": "rules/geoip/by.yaml",
-        "count": 802
+        "count": 800
       },
       "bz": {
         "path": "rules/geoip/bz.yaml",
-        "count": 303
+        "count": 311
       },
       "ca": {
         "path": "rules/geoip/ca.yaml",
-        "count": 27506
+        "count": 27882
       },
       "cc": {
         "path": "rules/geoip/cc.yaml",
-        "count": 44
+        "count": 42
       },
       "cd": {
         "path": "rules/geoip/cd.yaml",
-        "count": 380
+        "count": 391
       },
       "cf": {
         "path": "rules/geoip/cf.yaml",
-        "count": 119
+        "count": 128
       },
       "cg": {
         "path": "rules/geoip/cg.yaml",
-        "count": 169
+        "count": 178
       },
       "ch": {
         "path": "rules/geoip/ch.yaml",
-        "count": 11794
+        "count": 12117
       },
       "ci": {
         "path": "rules/geoip/ci.yaml",
-        "count": 474
+        "count": 486
       },
       "ck": {
         "path": "rules/geoip/ck.yaml",
-        "count": 119
+        "count": 118
       },
       "cl": {
         "path": "rules/geoip/cl.yaml",
-        "count": 9621
+        "count": 9651
       },
       "cloudflare": {
         "path": "rules/geoip/cloudflare.yaml",
-        "count": 908
+        "count": 916
       },
       "cloudfront": {
         "path": "rules/geoip/cloudfront.yaml",
@@ -8308,19 +8312,19 @@
       },
       "cm": {
         "path": "rules/geoip/cm.yaml",
-        "count": 298
+        "count": 307
       },
       "cn": {
         "path": "rules/geoip/cn.yaml",
-        "count": 9665
+        "count": 9735
       },
       "co": {
         "path": "rules/geoip/co.yaml",
-        "count": 3870
+        "count": 3924
       },
       "cr": {
         "path": "rules/geoip/cr.yaml",
-        "count": 932
+        "count": 959
       },
       "cu": {
         "path": "rules/geoip/cu.yaml",
@@ -8328,75 +8332,75 @@
       },
       "cv": {
         "path": "rules/geoip/cv.yaml",
-        "count": 176
+        "count": 184
       },
       "cw": {
         "path": "rules/geoip/cw.yaml",
-        "count": 210
+        "count": 208
       },
       "cx": {
         "path": "rules/geoip/cx.yaml",
-        "count": 77
+        "count": 75
       },
       "cy": {
         "path": "rules/geoip/cy.yaml",
-        "count": 1470
+        "count": 1529
       },
       "cz": {
         "path": "rules/geoip/cz.yaml",
-        "count": 5843
+        "count": 5863
       },
       "de": {
         "path": "rules/geoip/de.yaml",
-        "count": 73925
+        "count": 74089
       },
       "dj": {
         "path": "rules/geoip/dj.yaml",
-        "count": 152
+        "count": 163
       },
       "dk": {
         "path": "rules/geoip/dk.yaml",
-        "count": 5140
+        "count": 5171
       },
       "dm": {
         "path": "rules/geoip/dm.yaml",
-        "count": 168
+        "count": 169
       },
       "do": {
         "path": "rules/geoip/do.yaml",
-        "count": 1088
+        "count": 1086
       },
       "dz": {
         "path": "rules/geoip/dz.yaml",
-        "count": 411
+        "count": 425
       },
       "ec": {
         "path": "rules/geoip/ec.yaml",
-        "count": 1349
+        "count": 1367
       },
       "ee": {
         "path": "rules/geoip/ee.yaml",
-        "count": 1780
+        "count": 1830
       },
       "eg": {
         "path": "rules/geoip/eg.yaml",
-        "count": 995
+        "count": 1003
       },
       "eh": {
         "path": "rules/geoip/eh.yaml",
-        "count": 48
+        "count": 46
       },
       "er": {
         "path": "rules/geoip/er.yaml",
-        "count": 125
+        "count": 136
       },
       "es": {
         "path": "rules/geoip/es.yaml",
-        "count": 14880
+        "count": 14949
       },
       "et": {
         "path": "rules/geoip/et.yaml",
-        "count": 202
+        "count": 214
       },
       "facebook": {
         "path": "rules/geoip/facebook.yaml",
@@ -8408,211 +8412,211 @@
       },
       "fi": {
         "path": "rules/geoip/fi.yaml",
-        "count": 47184
+        "count": 47119
       },
       "fj": {
         "path": "rules/geoip/fj.yaml",
-        "count": 209
+        "count": 218
       },
       "fk": {
         "path": "rules/geoip/fk.yaml",
-        "count": 99
+        "count": 98
       },
       "fm": {
         "path": "rules/geoip/fm.yaml",
-        "count": 155
+        "count": 165
       },
       "fo": {
         "path": "rules/geoip/fo.yaml",
-        "count": 117
+        "count": 116
       },
       "fr": {
         "path": "rules/geoip/fr.yaml",
-        "count": 40477
+        "count": 40127
       },
       "ga": {
         "path": "rules/geoip/ga.yaml",
-        "count": 152
+        "count": 164
       },
       "gb": {
         "path": "rules/geoip/gb.yaml",
-        "count": 50896
+        "count": 50707
       },
       "gd": {
         "path": "rules/geoip/gd.yaml",
-        "count": 194
+        "count": 204
       },
       "ge": {
         "path": "rules/geoip/ge.yaml",
-        "count": 746
+        "count": 762
       },
       "gf": {
         "path": "rules/geoip/gf.yaml",
-        "count": 178
+        "count": 177
       },
       "gg": {
         "path": "rules/geoip/gg.yaml",
-        "count": 185
+        "count": 182
       },
       "gh": {
         "path": "rules/geoip/gh.yaml",
-        "count": 587
+        "count": 599
       },
       "gi": {
         "path": "rules/geoip/gi.yaml",
-        "count": 235
+        "count": 236
       },
       "gl": {
         "path": "rules/geoip/gl.yaml",
-        "count": 252
+        "count": 251
       },
       "gm": {
         "path": "rules/geoip/gm.yaml",
-        "count": 161
+        "count": 169
       },
       "gn": {
         "path": "rules/geoip/gn.yaml",
-        "count": 158
+        "count": 167
       },
       "google": {
         "path": "rules/geoip/google.yaml",
-        "count": 7090
+        "count": 6915
       },
       "gp": {
         "path": "rules/geoip/gp.yaml",
-        "count": 315
+        "count": 274
       },
       "gq": {
         "path": "rules/geoip/gq.yaml",
-        "count": 125
+        "count": 134
       },
       "gr": {
         "path": "rules/geoip/gr.yaml",
-        "count": 2598
+        "count": 2625
       },
       "gs": {
         "path": "rules/geoip/gs.yaml",
-        "count": 30
+        "count": 28
       },
       "gt": {
         "path": "rules/geoip/gt.yaml",
-        "count": 771
+        "count": 770
       },
       "gu": {
         "path": "rules/geoip/gu.yaml",
-        "count": 264
+        "count": 246
       },
       "gw": {
         "path": "rules/geoip/gw.yaml",
-        "count": 132
+        "count": 141
       },
       "gy": {
         "path": "rules/geoip/gy.yaml",
-        "count": 149
+        "count": 160
       },
       "hk": {
         "path": "rules/geoip/hk.yaml",
-        "count": 16021
+        "count": 16082
       },
       "hm": {
         "path": "rules/geoip/hm.yaml",
-        "count": 36
+        "count": 34
       },
       "hn": {
         "path": "rules/geoip/hn.yaml",
-        "count": 622
+        "count": 628
       },
       "hr": {
         "path": "rules/geoip/hr.yaml",
-        "count": 1139
+        "count": 1138
       },
       "ht": {
         "path": "rules/geoip/ht.yaml",
-        "count": 209
+        "count": 218
       },
       "hu": {
         "path": "rules/geoip/hu.yaml",
-        "count": 2891
+        "count": 2905
       },
       "id": {
         "path": "rules/geoip/id.yaml",
-        "count": 11157
+        "count": 11228
       },
       "ie": {
         "path": "rules/geoip/ie.yaml",
-        "count": 9583
+        "count": 9645
       },
       "il": {
         "path": "rules/geoip/il.yaml",
-        "count": 4276
+        "count": 4267
       },
       "im": {
         "path": "rules/geoip/im.yaml",
-        "count": 350
+        "count": 349
       },
       "in": {
         "path": "rules/geoip/in.yaml",
-        "count": 21435
+        "count": 21687
       },
       "io": {
         "path": "rules/geoip/io.yaml",
-        "count": 108
+        "count": 107
       },
       "iq": {
         "path": "rules/geoip/iq.yaml",
-        "count": 1641
+        "count": 1652
       },
       "ir": {
         "path": "rules/geoip/ir.yaml",
-        "count": 2776
+        "count": 2778
       },
       "is": {
         "path": "rules/geoip/is.yaml",
-        "count": 840
+        "count": 850
       },
       "it": {
         "path": "rules/geoip/it.yaml",
-        "count": 13679
+        "count": 13699
       },
       "je": {
         "path": "rules/geoip/je.yaml",
-        "count": 222
+        "count": 219
       },
       "jm": {
         "path": "rules/geoip/jm.yaml",
-        "count": 368
+        "count": 380
       },
       "jo": {
         "path": "rules/geoip/jo.yaml",
-        "count": 622
+        "count": 630
       },
       "jp": {
         "path": "rules/geoip/jp.yaml",
-        "count": 17870
+        "count": 17973
       },
       "ke": {
         "path": "rules/geoip/ke.yaml",
-        "count": 1320
+        "count": 1343
       },
       "kg": {
         "path": "rules/geoip/kg.yaml",
-        "count": 435
+        "count": 451
       },
       "kh": {
         "path": "rules/geoip/kh.yaml",
-        "count": 749
+        "count": 759
       },
       "ki": {
         "path": "rules/geoip/ki.yaml",
-        "count": 191
+        "count": 200
       },
       "km": {
         "path": "rules/geoip/km.yaml",
-        "count": 111
+        "count": 121
       },
       "kn": {
         "path": "rules/geoip/kn.yaml",
-        "count": 171
+        "count": 182
       },
       "kp": {
         "path": "rules/geoip/kp.yaml",
@@ -8620,167 +8624,167 @@
       },
       "kr": {
         "path": "rules/geoip/kr.yaml",
-        "count": 5607
+        "count": 5671
       },
       "kw": {
         "path": "rules/geoip/kw.yaml",
-        "count": 1138
+        "count": 1150
       },
       "ky": {
         "path": "rules/geoip/ky.yaml",
-        "count": 241
+        "count": 245
       },
       "kz": {
         "path": "rules/geoip/kz.yaml",
-        "count": 2376
+        "count": 2379
       },
       "la": {
         "path": "rules/geoip/la.yaml",
-        "count": 266
+        "count": 275
       },
       "lb": {
         "path": "rules/geoip/lb.yaml",
-        "count": 621
+        "count": 630
       },
       "lc": {
         "path": "rules/geoip/lc.yaml",
-        "count": 182
+        "count": 197
       },
       "li": {
         "path": "rules/geoip/li.yaml",
-        "count": 485
+        "count": 500
       },
       "lk": {
         "path": "rules/geoip/lk.yaml",
-        "count": 1222
+        "count": 1236
       },
       "lr": {
         "path": "rules/geoip/lr.yaml",
-        "count": 175
+        "count": 186
       },
       "ls": {
         "path": "rules/geoip/ls.yaml",
-        "count": 143
+        "count": 154
       },
       "lt": {
         "path": "rules/geoip/lt.yaml",
-        "count": 4455
+        "count": 4513
       },
       "lu": {
         "path": "rules/geoip/lu.yaml",
-        "count": 1936
+        "count": 1960
       },
       "lv": {
         "path": "rules/geoip/lv.yaml",
-        "count": 1714
+        "count": 1723
       },
       "ly": {
         "path": "rules/geoip/ly.yaml",
-        "count": 230
+        "count": 239
       },
       "ma": {
         "path": "rules/geoip/ma.yaml",
-        "count": 723
+        "count": 738
       },
       "mc": {
         "path": "rules/geoip/mc.yaml",
-        "count": 338
+        "count": 348
       },
       "md": {
         "path": "rules/geoip/md.yaml",
-        "count": 2755
+        "count": 2735
       },
       "me": {
         "path": "rules/geoip/me.yaml",
-        "count": 249
+        "count": 258
       },
       "mf": {
         "path": "rules/geoip/mf.yaml",
-        "count": 167
+        "count": 166
       },
       "mg": {
         "path": "rules/geoip/mg.yaml",
-        "count": 189
+        "count": 199
       },
       "mh": {
         "path": "rules/geoip/mh.yaml",
-        "count": 117
+        "count": 128
       },
       "mk": {
         "path": "rules/geoip/mk.yaml",
-        "count": 422
+        "count": 418
       },
       "ml": {
         "path": "rules/geoip/ml.yaml",
-        "count": 151
+        "count": 160
       },
       "mm": {
         "path": "rules/geoip/mm.yaml",
-        "count": 777
+        "count": 787
       },
       "mn": {
         "path": "rules/geoip/mn.yaml",
-        "count": 491
+        "count": 502
       },
       "mo": {
         "path": "rules/geoip/mo.yaml",
-        "count": 751
+        "count": 749
       },
       "mp": {
         "path": "rules/geoip/mp.yaml",
-        "count": 106
+        "count": 115
       },
       "mq": {
         "path": "rules/geoip/mq.yaml",
-        "count": 251
+        "count": 242
       },
       "mr": {
         "path": "rules/geoip/mr.yaml",
-        "count": 158
+        "count": 166
       },
       "ms": {
         "path": "rules/geoip/ms.yaml",
-        "count": 96
+        "count": 95
       },
       "mt": {
         "path": "rules/geoip/mt.yaml",
-        "count": 429
+        "count": 440
       },
       "mu": {
         "path": "rules/geoip/mu.yaml",
-        "count": 648
+        "count": 749
       },
       "mv": {
         "path": "rules/geoip/mv.yaml",
-        "count": 230
+        "count": 239
       },
       "mw": {
         "path": "rules/geoip/mw.yaml",
-        "count": 220
+        "count": 231
       },
       "mx": {
         "path": "rules/geoip/mx.yaml",
-        "count": 6333
+        "count": 6428
       },
       "my": {
         "path": "rules/geoip/my.yaml",
-        "count": 4042
+        "count": 4070
       },
       "mz": {
         "path": "rules/geoip/mz.yaml",
-        "count": 268
+        "count": 278
       },
       "na": {
         "path": "rules/geoip/na.yaml",
-        "count": 220
+        "count": 233
       },
       "nc": {
         "path": "rules/geoip/nc.yaml",
-        "count": 187
+        "count": 188
       },
       "ne": {
         "path": "rules/geoip/ne.yaml",
-        "count": 135
+        "count": 146
       },
       "netflix": {
         "path": "rules/geoip/netflix.yaml",
@@ -8788,83 +8792,83 @@
       },
       "nf": {
         "path": "rules/geoip/nf.yaml",
-        "count": 113
+        "count": 111
       },
       "ng": {
         "path": "rules/geoip/ng.yaml",
-        "count": 1673
+        "count": 1709
       },
       "ni": {
         "path": "rules/geoip/ni.yaml",
-        "count": 295
+        "count": 292
       },
       "nl": {
         "path": "rules/geoip/nl.yaml",
-        "count": 78134
+        "count": 81136
       },
       "no": {
         "path": "rules/geoip/no.yaml",
-        "count": 4448
+        "count": 4510
       },
       "np": {
         "path": "rules/geoip/np.yaml",
-        "count": 749
+        "count": 759
       },
       "nr": {
         "path": "rules/geoip/nr.yaml",
-        "count": 115
+        "count": 124
       },
       "nu": {
         "path": "rules/geoip/nu.yaml",
-        "count": 101
+        "count": 100
       },
       "nz": {
         "path": "rules/geoip/nz.yaml",
-        "count": 3893
+        "count": 3896
       },
       "om": {
         "path": "rules/geoip/om.yaml",
-        "count": 747
+        "count": 634
       },
       "pa": {
         "path": "rules/geoip/pa.yaml",
-        "count": 994
+        "count": 981
       },
       "pe": {
         "path": "rules/geoip/pe.yaml",
-        "count": 1832
+        "count": 1984
       },
       "pf": {
         "path": "rules/geoip/pf.yaml",
-        "count": 232
+        "count": 231
       },
       "pg": {
         "path": "rules/geoip/pg.yaml",
-        "count": 353
+        "count": 362
       },
       "ph": {
         "path": "rules/geoip/ph.yaml",
-        "count": 3408
+        "count": 3311
       },
       "pk": {
         "path": "rules/geoip/pk.yaml",
-        "count": 2045
+        "count": 2067
       },
       "pl": {
         "path": "rules/geoip/pl.yaml",
-        "count": 11877
+        "count": 11902
       },
       "pm": {
         "path": "rules/geoip/pm.yaml",
-        "count": 128
+        "count": 127
       },
       "pn": {
         "path": "rules/geoip/pn.yaml",
-        "count": 42
+        "count": 40
       },
       "pr": {
         "path": "rules/geoip/pr.yaml",
-        "count": 1023
+        "count": 1096
       },
       "private": {
         "path": "rules/geoip/private.yaml",
@@ -8872,135 +8876,135 @@
       },
       "ps": {
         "path": "rules/geoip/ps.yaml",
-        "count": 463
+        "count": 466
       },
       "pt": {
         "path": "rules/geoip/pt.yaml",
-        "count": 3244
+        "count": 3253
       },
       "pw": {
         "path": "rules/geoip/pw.yaml",
-        "count": 116
+        "count": 124
       },
       "py": {
         "path": "rules/geoip/py.yaml",
-        "count": 691
+        "count": 697
       },
       "qa": {
         "path": "rules/geoip/qa.yaml",
-        "count": 821
+        "count": 837
       },
       "re": {
         "path": "rules/geoip/re.yaml",
-        "count": 314
+        "count": 294
       },
       "ro": {
         "path": "rules/geoip/ro.yaml",
-        "count": 5364
+        "count": 5440
       },
       "rs": {
         "path": "rules/geoip/rs.yaml",
-        "count": 1398
+        "count": 1421
       },
       "ru": {
         "path": "rules/geoip/ru.yaml",
-        "count": 25365
+        "count": 25421
       },
       "rw": {
         "path": "rules/geoip/rw.yaml",
-        "count": 195
+        "count": 220
       },
       "sa": {
         "path": "rules/geoip/sa.yaml",
-        "count": 2636
+        "count": 2428
       },
       "sb": {
         "path": "rules/geoip/sb.yaml",
-        "count": 126
+        "count": 135
       },
       "sc": {
         "path": "rules/geoip/sc.yaml",
-        "count": 4620
+        "count": 4676
       },
       "sd": {
         "path": "rules/geoip/sd.yaml",
-        "count": 205
+        "count": 215
       },
       "se": {
         "path": "rules/geoip/se.yaml",
-        "count": 14411
+        "count": 15143
       },
       "sg": {
         "path": "rules/geoip/sg.yaml",
-        "count": 14643
+        "count": 17531
       },
       "sh": {
         "path": "rules/geoip/sh.yaml",
-        "count": 40
+        "count": 38
       },
       "si": {
         "path": "rules/geoip/si.yaml",
-        "count": 1553
+        "count": 1580
       },
       "sj": {
         "path": "rules/geoip/sj.yaml",
-        "count": 49
+        "count": 47
       },
       "sk": {
         "path": "rules/geoip/sk.yaml",
-        "count": 1953
+        "count": 1973
       },
       "sl": {
         "path": "rules/geoip/sl.yaml",
-        "count": 174
+        "count": 182
       },
       "sm": {
         "path": "rules/geoip/sm.yaml",
-        "count": 175
+        "count": 184
       },
       "sn": {
         "path": "rules/geoip/sn.yaml",
-        "count": 238
+        "count": 246
       },
       "so": {
         "path": "rules/geoip/so.yaml",
-        "count": 188
+        "count": 199
       },
       "sr": {
         "path": "rules/geoip/sr.yaml",
-        "count": 140
+        "count": 150
       },
       "ss": {
         "path": "rules/geoip/ss.yaml",
-        "count": 173
+        "count": 182
       },
       "st": {
         "path": "rules/geoip/st.yaml",
-        "count": 121
+        "count": 130
       },
       "sv": {
         "path": "rules/geoip/sv.yaml",
-        "count": 452
+        "count": 471
       },
       "sx": {
         "path": "rules/geoip/sx.yaml",
-        "count": 114
+        "count": 115
       },
       "sy": {
         "path": "rules/geoip/sy.yaml",
-        "count": 393
+        "count": 398
       },
       "sz": {
         "path": "rules/geoip/sz.yaml",
-        "count": 148
+        "count": 159
       },
       "tc": {
         "path": "rules/geoip/tc.yaml",
-        "count": 131
+        "count": 130
       },
       "td": {
         "path": "rules/geoip/td.yaml",
-        "count": 170
+        "count": 178
       },
       "telegram": {
         "path": "rules/geoip/telegram.yaml",
@@ -9008,59 +9012,59 @@
       },
       "tf": {
         "path": "rules/geoip/tf.yaml",
-        "count": 22
+        "count": 20
       },
       "tg": {
         "path": "rules/geoip/tg.yaml",
-        "count": 149
+        "count": 158
       },
       "th": {
         "path": "rules/geoip/th.yaml",
-        "count": 3624
+        "count": 3638
       },
       "tj": {
         "path": "rules/geoip/tj.yaml",
-        "count": 263
+        "count": 274
       },
       "tk": {
         "path": "rules/geoip/tk.yaml",
-        "count": 112
+        "count": 111
       },
       "tl": {
         "path": "rules/geoip/tl.yaml",
-        "count": 175
+        "count": 184
       },
       "tm": {
         "path": "rules/geoip/tm.yaml",
-        "count": 156
+        "count": 163
       },
       "tn": {
         "path": "rules/geoip/tn.yaml",
-        "count": 341
+        "count": 352
       },
       "to": {
         "path": "rules/geoip/to.yaml",
-        "count": 118
+        "count": 127
       },
       "tor": {
         "path": "rules/geoip/tor.yaml",
-        "count": 720
+        "count": 691
       },
       "tr": {
         "path": "rules/geoip/tr.yaml",
-        "count": 5430
+        "count": 6100
       },
       "tt": {
         "path": "rules/geoip/tt.yaml",
-        "count": 280
+        "count": 292
       },
       "tv": {
         "path": "rules/geoip/tv.yaml",
-        "count": 110
+        "count": 119
       },
       "tw": {
         "path": "rules/geoip/tw.yaml",
-        "count": 4979
+        "count": 5010
       },
       "twitter": {
         "path": "rules/geoip/twitter.yaml",
@@ -9068,67 +9072,67 @@
       },
       "tz": {
         "path": "rules/geoip/tz.yaml",
-        "count": 528
+        "count": 540
       },
       "ua": {
         "path": "rules/geoip/ua.yaml",
-        "count": 7877
+        "count": 7875
       },
       "ug": {
         "path": "rules/geoip/ug.yaml",
-        "count": 371
+        "count": 382
       },
       "um": {
         "path": "rules/geoip/um.yaml",
-        "count": 90
+        "count": 86
       },
       "us": {
         "path": "rules/geoip/us.yaml",
-        "count": 259036
+        "count": 259989
       },
       "uy": {
         "path": "rules/geoip/uy.yaml",
-        "count": 426
+        "count": 433
       },
       "uz": {
         "path": "rules/geoip/uz.yaml",
-        "count": 781
+        "count": 796
       },
       "va": {
         "path": "rules/geoip/va.yaml",
-        "count": 117
+        "count": 115
       },
       "vc": {
         "path": "rules/geoip/vc.yaml",
-        "count": 146
+        "count": 160
       },
       "ve": {
         "path": "rules/geoip/ve.yaml",
-        "count": 1656
+        "count": 1662
       },
       "vg": {
         "path": "rules/geoip/vg.yaml",
-        "count": 647
+        "count": 624
       },
       "vi": {
         "path": "rules/geoip/vi.yaml",
-        "count": 260
+        "count": 244
       },
       "vn": {
         "path": "rules/geoip/vn.yaml",
-        "count": 3871
+        "count": 3911
       },
       "vu": {
         "path": "rules/geoip/vu.yaml",
-        "count": 271
+        "count": 292
       },
       "wf": {
         "path": "rules/geoip/wf.yaml",
-        "count": 97
+        "count": 96
       },
       "ws": {
         "path": "rules/geoip/ws.yaml",
-        "count": 139
+        "count": 148
       },
       "xk": {
         "path": "rules/geoip/xk.yaml",
@@ -9136,23 +9140,23 @@
       },
       "ye": {
         "path": "rules/geoip/ye.yaml",
-        "count": 229
+        "count": 241
       },
       "yt": {
         "path": "rules/geoip/yt.yaml",
-        "count": 119
+        "count": 120
       },
       "za": {
         "path": "rules/geoip/za.yaml",
-        "count": 5806
+        "count": 5862
       },
       "zm": {
         "path": "rules/geoip/zm.yaml",
-        "count": 271
+        "count": 302
       },
       "zw": {
         "path": "rules/geoip/zw.yaml",
-        "count": 365
+        "count": 353
       }
     },
     "lite/geosite": {
