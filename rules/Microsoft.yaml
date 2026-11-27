@@ -1,6 +1,7 @@
 # Auto-generated from MetaCubeX/meta-rules-dat, branch meta.
 # Source: https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geosite/microsoft.yaml
 domain_set:
+- aurora-customization-usw2.lithium.com
 - az764295.vo.msecnd.net
 - azure.microsoft.com
 - azuremarketplace.microsoft.com

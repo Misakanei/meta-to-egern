@@ -1,14 +1,14 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "69f94483c308940c277035c66eb78ff529efd977",
+  "upstream_sha": "59032b3daac1d1a2643a77d6189c2a882900d54a",
   "categories": {
     "geosite": 2026,
     "geoip": 260,
     "lite/geosite": 24,
     "lite/geoip": 12
   },
-  "asn_count": 83483,
+  "asn_count": 83624,
   "asn_mode": "native-asn-all; published-cidr-snapshots-daily-refresh",
   "rules": {
     "geosite": {
@@ -1350,7 +1350,7 @@
       },
       "category-companies": {
         "path": "rules/geosite/category-companies.yaml",
-        "count": 8553
+        "count": 8554
       },
       "category-companies@!cn": {
         "path": "rules/geosite/category-companies@!cn.yaml",
@@ -4870,7 +4870,7 @@
       },
       "microsoft": {
         "path": "rules/geosite/microsoft.yaml",
-        "count": 757
+        "count": 758
       },
       "microsoft@ads": {
         "path": "rules/geosite/microsoft@ads.yaml",
@@ -9268,7 +9268,7 @@
       },
       "cloudflare": {
         "path": "rules/lite/geoip/cloudflare.yaml",
-        "count": 2926
+        "count": 2932
       },
       "cloudfront": {
         "path": "rules/lite/geoip/cloudfront.yaml",
@@ -9276,7 +9276,7 @@
       },
       "cn": {
         "path": "rules/lite/geoip/cn.yaml",
-        "count": 7520
+        "count": 7519
       },
       "facebook": {
         "path": "rules/lite/geoip/facebook.yaml",
@@ -9284,11 +9284,11 @@
       },
       "google": {
         "path": "rules/lite/geoip/google.yaml",
-        "count": 897
+        "count": 895
       },
       "jp": {
         "path": "rules/lite/geoip/jp.yaml",
-        "count": 3798
+        "count": 3797
       },
       "netflix": {
         "path": "rules/lite/geoip/netflix.yaml",
