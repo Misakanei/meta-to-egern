@@ -1,7 +1,7 @@
 {
   "source": "MetaCubeX/meta-rules-dat",
   "branch": "meta",
-  "upstream_sha": "59032b3daac1d1a2643a77d6189c2a882900d54a",
+  "upstream_sha": "2dde1a519985f7822ed291c498f31e52a4621851",
   "categories": {
     "geosite": 2026,
     "geoip": 260,
@@ -1510,7 +1510,7 @@
       },
       "category-entertainment": {
         "path": "rules/geosite/category-entertainment.yaml",
-        "count": 2163
+        "count": 2164
       },
       "category-entertainment@!cn": {
         "path": "rules/geosite/category-entertainment@!cn.yaml",
@@ -1598,7 +1598,7 @@
       },
       "category-games-!cn": {
         "path": "rules/geosite/category-games-!cn.yaml",
-        "count": 882
+        "count": 883
       },
       "category-games-!cn@ads": {
         "path": "rules/geosite/category-games-!cn@ads.yaml",
@@ -1630,7 +1630,7 @@
       },
       "category-games": {
         "path": "rules/geosite/category-games.yaml",
-        "count": 1066
+        "count": 1067
       },
       "category-games@ads": {
         "path": "rules/geosite/category-games@ads.yaml",
@@ -1842,7 +1842,7 @@
       },
       "category-public-tracker": {
         "path": "rules/geosite/category-public-tracker.yaml",
-        "count": 437
+        "count": 438
       },
       "category-remote-control": {
         "path": "rules/geosite/category-remote-control.yaml",
@@ -3006,7 +3006,7 @@
       },
       "faceit": {
         "path": "rules/geosite/faceit.yaml",
-        "count": 2
+        "count": 3
       },
       "falungong": {
         "path": "rules/geosite/falungong.yaml",
@@ -3302,7 +3302,7 @@
       },
       "geolocation-!cn": {
         "path": "rules/geosite/geolocation-!cn.yaml",
-        "count": 27244
+        "count": 27249
       },
       "geolocation-cn": {
         "path": "rules/geosite/geolocation-cn.yaml",
@@ -3326,7 +3326,7 @@
       },
       "gfw": {
         "path": "rules/geosite/gfw.yaml",
-        "count": 4462
+        "count": 4465
       },
       "gfycat": {
         "path": "rules/geosite/gfycat.yaml",
